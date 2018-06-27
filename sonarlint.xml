@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.tip.zalan.do" />
+          <token>df9ddfcbdf92df9bdf9fdf99df99df9ddf9adf9bdfcfdf9cdf9bdf93df9edfcbdf9edfc8dfc8df9edfc8df99df93df9bdfc9df9fdfccdf9ddf98df98df9adfc9df9edf9ddf9fdfcfdfc8dfcbdf9fdfcc</token>
+          <option name="name" value="asdf" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
