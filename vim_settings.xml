@@ -1137,11 +1137,11 @@
         <mark key="^" line="73" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530192934594">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="39" />
-        <mark key="." line="48" column="39" />
-        <mark key="^" line="48" column="39" />
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530193888007">
+        <mark key="[" line="54" column="127" />
+        <mark key="]" line="54" column="127" />
+        <mark key="." line="54" column="127" />
+        <mark key="^" line="54" column="155" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/PartyInfo.java" timestamp="1511275864354">
         <mark key="[" line="6" column="5" />
@@ -2697,14 +2697,14 @@
       <jump line="1" column="48" filename="$USER_HOME$/Projects/purchase-service/live.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIkNhY2hlLUNvbnRyb2wiOiAibWF4LWFnZT04NjQwMCIK</text>
+      <register name="&quot;" type="4">
+        <text>getConsumerStoreServiceHost</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>getConsumerStoreServiceHost</text>
       </register>
       <register name="/" type="4">
         <text>Image</text>
