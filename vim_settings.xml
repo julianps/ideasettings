@@ -605,7 +605,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530084039764">
+      <file name="/Dummy.txt" timestamp="1530186149162">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/HttpLink.java" timestamp="1528976498201">
@@ -1964,7 +1964,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1530084039748">
+      <file name="/fragment.java" timestamp="1530186149152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/LinkWithExternalUxHooksInfo.java" timestamp="1511024946197">
