@@ -1137,11 +1137,11 @@
         <mark key="^" line="73" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530193888007">
-        <mark key="[" line="54" column="127" />
-        <mark key="]" line="54" column="127" />
-        <mark key="." line="54" column="127" />
-        <mark key="^" line="54" column="155" />
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530194161466">
+        <mark key="[" line="54" column="98" />
+        <mark key="]" line="54" column="98" />
+        <mark key="." line="54" column="98" />
+        <mark key="^" line="54" column="99" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/PartyInfo.java" timestamp="1511275864354">
         <mark key="[" line="6" column="5" />
@@ -2698,13 +2698,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getConsumerStoreServiceHost</text>
+        <text>o</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>getConsumerStoreServiceHost</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>Image</text>
