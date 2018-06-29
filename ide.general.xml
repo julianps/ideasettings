@@ -9,5 +9,6 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="actionSystem.mouseGesturesEnabled" value="false" />
     <entry key="ide.run.dashboard" value="false" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>
