@@ -1110,7 +1110,7 @@
         <mark key="^" line="73" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530260914004">
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/ContextControllerIntegrationTest.java" timestamp="1530261333837">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="118" />
         <mark key="." line="49" column="42" />
@@ -1963,6 +1963,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/resources/testdata/mappings.json" timestamp="1530261416797" />
       <file name="/fragment.java" timestamp="1530200611070">
         <mark key="[" line="0" column="0" />
       </file>
