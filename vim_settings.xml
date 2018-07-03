@@ -32,11 +32,11 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessorTest.java" timestamp="1530622644013">
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="5" column="71" />
-        <mark key="^" line="5" column="71" />
-        <mark key="." line="5" column="71" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessorTest.java" timestamp="1530622657635">
+        <mark key="[" line="8" column="52" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/util/converters/PaymentSelectionConverterTest.java" timestamp="1528896072010">
         <mark key="[" line="12" column="41" />
