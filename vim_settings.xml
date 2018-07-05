@@ -9,11 +9,20 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/services/PaymentServiceIntegrationTest.java" timestamp="1530790833605">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="64" column="69" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/Context/CheckoutContextService.java" timestamp="1517406662888">
         <mark key="[" line="25" column="61" />
         <mark key="]" line="25" column="61" />
         <mark key="^" line="24" column="17" />
         <mark key="." line="25" column="61" />
+      </file>
+      <file name="/a.dummy" timestamp="1530790766917">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/config/security/jwt/jwk/JwtAuthenticationProviderTest.java" timestamp="1507896189787">
         <mark key="[" line="15" column="15" />
@@ -553,6 +562,10 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/ContextController.java" timestamp="1530783356981">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/util/PaymentSelectionConverter.java" timestamp="1510924098855">
         <mark key="[" line="16" column="72" />
         <mark key="]" line="16" column="77" />
@@ -598,11 +611,10 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/CheckoutPreferredPaymentContextService.java" timestamp="1530783208564">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="89" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/CheckoutPreferredPaymentContextService.java" timestamp="1530783293105">
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Passthrough.java" timestamp="1515743830960">
         <mark key="[" line="12" column="17" />
@@ -1972,7 +1984,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1530622625640">
+      <file name="/fragment.java" timestamp="1530790734113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/LinkWithExternalUxHooksInfo.java" timestamp="1511024946197">
@@ -2697,53 +2709,53 @@
       <jump line="63" column="0" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/curl_requests.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>final AvailabilityContext availabilityContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3N0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>final AvailabilityContext availabilityContext</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPFN0cmluZywgQ2FyZHNDb250ZXh0U2VydmljZT4gY29udGV4dFNlcnZpY2VzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cG9zdAo=</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">R2V0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">cG9zdAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">R2V0Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9zdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGVsZXRlIChvbmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
