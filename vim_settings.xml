@@ -2344,12 +2344,12 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1530867895816">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1530869135404">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="44" column="38" />
-        <mark key="]" line="45" column="47" />
-        <mark key="." line="45" column="47" />
-        <mark key="^" line="45" column="47" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/config/security/jwt/JwtAuthenticationProvider.java" timestamp="1508163311505">
         <mark key="[" line="45" column="19" />
@@ -2774,14 +2774,14 @@
       <jump line="32" column="0" filename="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBsb2dnaW5nLmxldmVsLm9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHk9REVCVUcK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
@@ -2790,37 +2790,37 @@
         <text>UUID.randomUUID()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">IyBsb2dnaW5nLmxldmVsLm9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHk9REVCVUcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nUnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9zdAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cG9zdAo=</text>
+        <text encoding="base64">R2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9zdAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
