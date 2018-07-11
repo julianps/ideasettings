@@ -578,11 +578,11 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1531308443532">
-        <mark key="[" line="168" column="49" />
-        <mark key="]" line="169" column="34" />
-        <mark key="." line="169" column="34" />
-        <mark key="^" line="169" column="34" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1531318991107">
+        <mark key="[" line="375" column="57" />
+        <mark key="]" line="375" column="87" />
+        <mark key="." line="375" column="87" />
+        <mark key="^" line="375" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/EnumMessageInterpolator.java" timestamp="1517391937891">
         <mark key="[" line="12" column="0" />
@@ -652,12 +652,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" timestamp="1531313820903">
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" timestamp="1531318853899">
         <mark key="'" line="113" column="51" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="102" column="42" />
+        <mark key="[" line="96" column="77" />
+        <mark key="]" line="96" column="87" />
+        <mark key="." line="96" column="87" />
+        <mark key="^" line="96" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/exception/RestClientAdvice.java" timestamp="1512336877825">
         <mark key="[" line="8" column="0" />
@@ -2646,10 +2646,10 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531313810121">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531319029989">
         <mark key="'" line="106" column="15" />
-        <mark key="[" line="68" column="29" />
-        <mark key="]" line="69" column="15" />
+        <mark key="[" line="86" column="138" />
+        <mark key="]" line="81" column="144" />
         <mark key="." line="69" column="15" />
         <mark key="^" line="69" column="15" />
       </file>
@@ -2882,20 +2882,20 @@
       <jump line="116" column="51" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>lomb</text>
       </register>
-      <register name="0" type="4">
-        <text>Channel.MASTERCARD, Channel.MASTERCARD.toString(), PaymentMethods.TYPE_CREDIT_CARD,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocHJlZmVycmVkUGF5bWVudHMuZ2V0KCkuZ2V0UGF5bWVudCgpLmdldEZ1bmRpbmdTb3VyY2VJZCgpLCByZWZlcmVuY2VVc2VkUGF5bWVudC5nZXRVc2VkUGF5bWVudERldGFpbHMoKS5nZXRGdW5kaW5nU291cmNlSWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2904,22 +2904,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkT3B0aW9uKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5oZWFkKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFVzZWRQYXltZW50PiB1c2VkUGF5bWVudHMgPSBzdHViUmFuZG9tVXNlZFBheW1lbnRzKCk7CiAgICAgICAgZmluYWwgTGlzdDxVc2VkUGF5bWVudD4gbWF0Y2hlZFVzZWRQYXltZW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoVXNlZFBheW1lbnQgdXAgOiB1c2VkUGF5bWVudHMpIHsKICAgICAgICAgICAgICAgIHVwLmdldFVzZWRQYXltZW50RGV0YWlscygpLnNldFBheW1lbnRNZXRob2RJZChmcy5nZXRFeHRlcm5hbCgpLmdldEJhc2VGdW5kaW5nU291cmNlKCkuZ2V0SWQoKSk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKHNlbGVjdGlvblZhbGlkYXRvci52YWxpZGF0ZShhbnkoKSxhbnkoKSwgYW55KCkpKS50aGVuQW5zd2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDYXJkRnVuZGluZ1NvdXJjZUludGVybmFsIGZzIDogZnVuZGluZ1NvdXJjZXMpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB1cCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5548,10 +5548,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
