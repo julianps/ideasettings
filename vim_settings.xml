@@ -927,12 +927,12 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/curl_requests.adoc" timestamp="1530625601110">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="102" column="0" />
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/curl_requests.adoc" timestamp="1531298811804">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/PurchaseServiceValidationException.java" timestamp="1511957911940">
         <mark key="[" line="8" column="12" />
@@ -2418,6 +2418,13 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1530869135404">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/config/security/jwt/JwtAuthenticationProvider.java" timestamp="1508163311505">
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="23" />
@@ -2869,13 +2876,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>lomb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDYXJkRnVuZGluZ1NvdXJjZUludGVybmFsIGNhcmRGdW5kaW5nU291cmNlSW50ZXJuYWxfMSA9IFN0dWJGYWN0b3J5LnN0dWJDYXJkRnVuZGluZ1NvdXJjZSgpOwo=</text>
+        <text encoding="base64">ICAtSCAnQXV0aG9yaXphdGlvbjogJyIkSldUX1RPS0VOIiBcCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2884,19 +2891,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09IERlbGV0ZSBzZXNzaW9uCgpgYGAKY3VybCAtWCBERUxFVEUgXAogIGh0dHBzOi8vcHVyY2hhc2Utc2VydmljZS5rb2hsZS1pbnRlZ3JhdGlvbi56YWxhbi5kby9zZXNzaW9ucy9lNjA0NDU4YS0zOWMzLTRkNTUtYjk2Yy1mYTQxN2Y4OGRmZGIgXAogIC1IICdBdXRob3JpemF0aW9uOiAnIiRKV1RfVE9LRU4iIFwKICAtSCAnQ2FjaGUtQ29udHJvbDogbm8tY2FjaGUnCmBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtSCAnQXV0aG9yaXphdGlvbjogPEpXVF9UT0tFTj7igJkgXAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRydWUocHJlZmVycmVkUGF5bWVudHMuZ2V0KCkuZ2V0UGF5bWVudCgpLmdldFBheW1lbnRNZXRob2RJZCgpLmVxdWFscygpKQo=</text>
+        <text encoding="base64">LlByZXJlcXVpc2l0ZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAtSCAnQXV0aG9yaXphdGlvbjogPEpXVF9UT0tFTj7igJkgXAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -5528,10 +5535,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VXNlOiBtdWx0aS1wYXJhZ3JhcGggbm90ZXMuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Kk5PVEUqIEJsb2NrCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
