@@ -10,5 +10,6 @@
     <entry key="actionSystem.mouseGesturesEnabled" value="false" />
     <entry key="ide.run.dashboard" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
