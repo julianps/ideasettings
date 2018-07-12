@@ -1174,6 +1174,11 @@
       <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1531294544654">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/PreferredPayment.java" timestamp="1531321210199">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/utest/converters/CheckoutConverterTest.java" timestamp="1512636977899">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="29" column="4" />
@@ -2646,12 +2651,12 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531319029989">
-        <mark key="'" line="106" column="15" />
-        <mark key="[" line="86" column="138" />
-        <mark key="]" line="81" column="144" />
-        <mark key="." line="69" column="15" />
-        <mark key="^" line="69" column="15" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531321919016">
+        <mark key="'" line="113" column="15" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/model/UserData.java" timestamp="1508830207422">
         <mark key="[" line="23" column="11" />
@@ -2882,44 +2887,44 @@
       <jump line="116" column="51" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>lomb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMocHJlZmVycmVkUGF5bWVudHMuZ2V0KCkuZ2V0UGF5bWVudCgpLmdldEZ1bmRpbmdTb3VyY2VJZCgpLCByZWZlcmVuY2VVc2VkUGF5bWVudC5nZXRVc2VkUGF5bWVudERldGFpbHMoKS5nZXRGdW5kaW5nU291cmNlSWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb248UHJlZmVycmVkUGF5bWVudD4gcHJlZmVycmVkUGF5bWVudCA9IHVzZWRQYXltZW50cwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxlY3Rpb25WYWxpZGF0b3IudmFsaWRhdGUoKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChCYWRSZXF1ZXN0RXhjZXB0aW9uIGJyZSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFVzZWRQYXltZW50PiB1c2VkUGF5bWVudHMgPSBzdHViUmFuZG9tVXNlZFBheW1lbnRzKCk7CiAgICAgICAgZmluYWwgTGlzdDxVc2VkUGF5bWVudD4gbWF0Y2hlZFVzZWRQYXltZW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoVXNlZFBheW1lbnQgdXAgOiB1c2VkUGF5bWVudHMpIHsKICAgICAgICAgICAgICAgIHVwLmdldFVzZWRQYXltZW50RGV0YWlscygpLnNldFBheW1lbnRNZXRob2RJZChmcy5nZXRFeHRlcm5hbCgpLmdldEJhc2VGdW5kaW5nU291cmNlKCkuZ2V0SWQoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KS50b0VpdGhlcigpLmdldE9yRWxzZShmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChDYXJkRnVuZGluZ1NvdXJjZUludGVybmFsIGZzIDogZnVuZGluZ1NvdXJjZXMpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3ZWxjaGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICB1cCAK</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5548,10 +5553,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
