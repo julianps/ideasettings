@@ -551,6 +551,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/TokensConfiguration.java" timestamp="1530867736088" />
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/NameService.java" timestamp="1508748675349">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="14" column="35" />
@@ -696,6 +697,7 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1531466870929" />
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/SwaggerExportTest.java" timestamp="1511468769991">
         <mark key="[" line="32" column="51" />
         <mark key="]" line="42" column="57" />
@@ -828,6 +830,7 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/util/ExternalServiceResponseValidatorTest.java" timestamp="1530795171040" />
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/resources/application.properties" timestamp="1508831757131">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
@@ -839,6 +842,13 @@
         <mark key="]" line="6" column="34" />
         <mark key="^" line="6" column="34" />
         <mark key="." line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/CheckoutControllerIntegrationTest.java" timestamp="1531465802425">
+        <mark key="'" line="275" column="16" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/java_playground/pom.xml" timestamp="1517846762798">
         <mark key="[" line="39" column="0" />
@@ -935,6 +945,13 @@
         <mark key="]" line="11" column="18" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
+      </file>
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/curl_requests.adoc" timestamp="1531298811804">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="32" column="3" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/PurchaseServiceValidationException.java" timestamp="1511957911940">
         <mark key="[" line="8" column="12" />
@@ -1037,7 +1054,7 @@
         <mark key="." line="21" column="28" />
         <mark key="^" line="21" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/BaseIntegrationTest.java" timestamp="1531465389047">
+      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/BaseIntegrationTest.java" timestamp="1531466741674">
         <mark key="'" line="134" column="59" />
         <mark key="[" line="141" column="0" />
         <mark key="]" line="164" column="4" />
@@ -1163,9 +1180,6 @@
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1531386389685">
-        <mark key="'" line="299" column="18" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/PreferredPayment.java" timestamp="1531321210199">
         <mark key="[" line="13" column="0" />
@@ -2100,7 +2114,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1531400036169">
+      <file name="/fragment.java" timestamp="1531466717675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/LinkWithExternalUxHooksInfo.java" timestamp="1511024946197">
@@ -2433,6 +2447,13 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1530869135404">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="41" column="1" />
+        <mark key="^" line="41" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/config/security/jwt/JwtAuthenticationProvider.java" timestamp="1508163311505">
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="23" />
@@ -2611,6 +2632,7 @@
         <mark key="^" line="12" column="67" />
         <mark key="." line="12" column="67" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/security/jwt/JwtAuthenticationProvider.java" timestamp="1530868063322" />
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/end2end/SessionControllerTest.java" timestamp="1511531683966">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
@@ -2701,6 +2723,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1531466805337" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/ResourceMetaDataResponse.java" timestamp="1511185025436">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
