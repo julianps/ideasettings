@@ -640,6 +640,9 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" timestamp="1531727393902">
+        <mark key="^" line="2" column="140" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/exception/RestClientAdvice.java" timestamp="1512336877825">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1631,11 +1634,11 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" timestamp="1531486269947">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="58" />
-        <mark key="." line="23" column="58" />
-        <mark key="^" line="23" column="58" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" timestamp="1531727601857">
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="11" />
+        <mark key="." line="103" column="11" />
+        <mark key="^" line="103" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/DefaultContextServiceProviderImpl.java" timestamp="1518716866556">
         <mark key="[" line="14" column="0" />
@@ -2045,11 +2048,11 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PreferredPaymentProcessor.java" timestamp="1531487802742">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PreferredPaymentProcessor.java" timestamp="1531727144034">
+        <mark key="[" line="22" column="102" />
+        <mark key="]" line="22" column="85" />
+        <mark key="^" line="22" column="85" />
+        <mark key="." line="22" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/model/business/ExternalUxHooks.java" timestamp="1512379643779">
         <mark key="[" line="8" column="27" />
@@ -2346,7 +2349,6 @@
         <mark key="]" line="169" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStoreClient.java" timestamp="1531472881859" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/unit/controllers/PaymentSelectionResponse.java" timestamp="1510923359427">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -2622,11 +2624,11 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531486047489">
-        <mark key="[" line="24" column="92" />
-        <mark key="]" line="24" column="92" />
-        <mark key="^" line="24" column="92" />
-        <mark key="." line="24" column="92" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531727186087">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="37" column="39" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/model/UserData.java" timestamp="1508830207422">
         <mark key="[" line="23" column="11" />
@@ -2853,13 +2855,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Base</text>
@@ -2868,28 +2870,28 @@
         <text encoding="base64">ICAgICAgICBzZXNzaW9uLnNldENvbnN1bWVyKG5ldyBDb25zdW1lcigpKTsKICAgICAgICBzZXNzaW9uLmdldENvbnN1bWVyKCkuc2V0UmV0YWlsZXIoc2Vzc2lvbi5nZXRSZXRhaWxlcigpKTsKICAgICAgICBzZXNzaW9uLmdldENvbnN1bWVyKCkuc2V0UmV0YWlsZXJDb25zdW1lcklkKCIxMzM3Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBqc3R1ZWNrZXIK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PFBheW1lbnRBdmFpbGFiaWxpdHlJdGVtPiBhdmFpbGFiaWxpdHkgPSBwYXltZW50QXZhaWxhYmlsaXR5U2VydmljZS5nZXRBdmFpbGFiaWxpdHkocHVyY2hhc2VTZXNzaW9uKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBqc3R1ZWNrZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmcgY29uc3VtZXJJZCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRDb25zdW1lcigpLmdldElkKCk7CiAgICAgICAgZmluYWwgaW8udmF2ci5jb2xsZWN0aW9uLkxpc3Q8VXNlZFBheW1lbnQ+IHVzZWRQYXltZW50cyA9IGNvbnN1bWVyU3RvcmUuZ2V0VXNlZFBheW1lbnRzKGNvbnN1bWVySWQpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuY29sbGVjdChpby52YXZyLmNvbGxlY3Rpb24uTGlzdC5jb2xsZWN0b3IoKSk7CiAgICAgICAgbG9nLmluZm8oIlJldHJpZXZlZCB1c2VkIHBheW1lbnRzIGZvciBjb25zdW1lciA6IHt9LCB0b3RhbF91c2VkX3BheW1lbnRzIDoge30iLCBjb25zdW1lcklkLAogICAgICAgICAgICAgICAgdXNlZFBheW1lbnRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLmluT3JkZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnN1bWVyU3RvcmUuZ2V0VXNlZFBheW1lbnRzKGFueSgpKSkudGhlblJldHVybihTdHViRmFjdG9yeS5zdHViUmFuZG9tVXNlZFBheW1lbnRzKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5518,10 +5520,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNvbnN1bWVyU3RvcmUuZ2V0VXNlZFBheW1lbnRzKGFueSgpKSkudGhlblJldHVybih1c2VkUGF5bWVudHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMubW9kZWxzLmJ1c2luZXNzLkNvbnN1bWVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
