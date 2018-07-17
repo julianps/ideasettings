@@ -1694,6 +1694,10 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/CheckoutRequest.java" timestamp="1531821192418">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/jwt-token-service/src/main/scala/http/routes/TokensRoute.scala" timestamp="1508417694098">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="15" />
@@ -1777,6 +1781,12 @@
         <mark key="]" line="51" column="42" />
         <mark key="^" line="51" column="42" />
         <mark key="." line="51" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/HttpLinkWithOptions.java" timestamp="1531821828673">
+        <mark key="[" line="9" column="66" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1529482277115">
         <mark key="[" line="50" column="0" />
@@ -2598,13 +2608,6 @@
         <mark key="^" line="13" column="34" />
         <mark key="." line="13" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" timestamp="1531732982971">
-        <mark key="'" line="77" column="4" />
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="12" />
-        <mark key="." line="62" column="12" />
-        <mark key="^" line="66" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/model/UserData.java" timestamp="1508830207422">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="27" />
@@ -2830,19 +2833,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>O</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>getSession</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJzcXVpZDpVbmRvY3VtZW50ZWRBcGkiKQo=</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCiAgICBwcml2YXRlIEJvb2xlYW4gZW5mb3JjZUZ1bmRpbmdTb3VyY2VDaGVjazsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJzcXVpZDpVbmRvY3VtZW50ZWRBcGkiKQo=</text>
