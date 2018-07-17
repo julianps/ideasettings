@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.tip.zalan.do" />
-          <token>df9ddfcbdf92df9bdf9fdf99df99df9ddf9adf9bdfcfdf9cdf9bdf93df9edfcbdf9edfc8dfc8df9edfc8df99df93df9bdfc9df9fdfccdf9ddf98df98df9adfc9df9edf9ddf9fdfcfdfc8dfcbdf9fdfcc</token>
+          <token>df99df9adf92dfcfdf9cdfc8df9cdf93dfcbdfcedf9fdf99dfcedf92df9edf9fdf9fdf9fdfcedf9cdf9edf98df9cdf98df92df9adf9adf92dfc9dfcfdf92df93df92dfcedfc8dfccdf98df99dfcfdfcf</token>
           <option name="name" value="asdf" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
