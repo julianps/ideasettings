@@ -1421,7 +1421,7 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/main/java/org/modelmapper/module/vavr/collections/SeqConverter.java" timestamp="1531913736735">
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/main/java/org/modelmapper/module/vavr/collections/SeqConverter.java" timestamp="1531914354226">
         <mark key="[" line="22" column="11" />
         <mark key="]" line="22" column="13" />
         <mark key="^" line="22" column="13" />
