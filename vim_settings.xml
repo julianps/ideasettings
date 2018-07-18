@@ -1337,11 +1337,11 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/test/java/org/modelmapper/module/vavr/collections/SeqConverterTest.java" timestamp="1531902669223">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/test/java/org/modelmapper/module/vavr/collections/SeqConverterTest.java" timestamp="1531912838878">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
         <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="0" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/application-test.properties" timestamp="1530865507988">
         <mark key="[" line="1" column="37" />
@@ -1420,6 +1420,12 @@
         <mark key="]" line="11" column="3" />
         <mark key="^" line="11" column="3" />
         <mark key="." line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/main/java/org/modelmapper/module/vavr/collections/SeqConverter.java" timestamp="1531913736735">
+        <mark key="[" line="22" column="11" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/UserDataService.java" timestamp="1508748789735">
         <mark key="[" line="17" column="3" />
@@ -1899,6 +1905,12 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/src/test/java/org/modelmapper/module/vavr/collections/ListConverterTest.java" timestamp="1531913496522">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="23" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/services/CheckoutServiceTest.java" timestamp="1510582658058">
         <mark key="[" line="48" column="83" />
@@ -2955,13 +2967,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBGcmllbmRzR3JvdXAgZnJpZW5kc0dyb3VwICA9IHN0dWJGcmllbmRzR3JvdXAoKTsK</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>getSession</text>
@@ -2970,25 +2982,25 @@
         <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3RvcihzdGF0aWNOYW1lID0gIm9mIikKQE5vQXJnc0NvbnN0cnVjdG9yCnB1YmxpYyBjbGFzcyBQZXJzb24gewoKCXByaXZhdGUgaW50IHllYXJzT2ZFeHBlcmllbmNlOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICBGcmllbmRzR3JvdXAgZnJpZW5kc0dyb3VwICA9IHN0dWJGcmllbmRzR3JvdXAoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBKdWxpYW4gU3TDvGNrZXIK</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgSnVsaWFuIFN0w7xja2VyCiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGF1dGhvciBKdWxpYW4gU3TDvGNrZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
