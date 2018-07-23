@@ -1518,11 +1518,11 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/modelmapper-module-vavr/.gitignore" timestamp="1532338806287">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/.gitignore" timestamp="1532352050641">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="28" column="6" />
+        <mark key="^" line="28" column="6" />
+        <mark key="." line="28" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/IntegrationTestConfiguration.java" timestamp="1512048435567">
         <mark key="[" line="17" column="4" />
@@ -2419,11 +2419,12 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/projects/modelmapper-module-vavr/pom.xml" timestamp="1532349540948">
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="^" line="215" column="11" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/pom.xml" timestamp="1532351832001">
+        <mark key="'" line="29" column="68" />
+        <mark key="[" line="29" column="61" />
+        <mark key="]" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+        <mark key="^" line="29" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/saleschannel/SalesChannel.java" timestamp="1521731262147">
         <mark key="[" line="6" column="4" />
@@ -2918,7 +2919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="212" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="265" column="17" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="55" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
@@ -3018,6 +3018,7 @@
       <jump line="346" column="79" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="348" column="42" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="357" column="79" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
+      <jump line="29" column="68" filename="$USER_HOME$/projects/modelmapper-module-vavr/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3027,13 +3028,13 @@
         <text />
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>jaco</text>
+        <text>release</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJPCEtLSBVbml0IHRlc3QgY292ZXJhZ2UgLS0+CgkJCTxwbHVnaW4+CgkJCQk8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5tYXZlbi1zdXJlZmlyZS1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8Y29uZmlndXJhdGlvbj4KCQkJCQk8ZXhjbHVkZXM+CgkJCQkJCTxleGNsdWRlPioqLypJbnRlZ3JhdGlvblRlc3QuamF2YTwvZXhjbHVkZT4KCQkJCQk8L2V4Y2x1ZGVzPgoJCQkJCTxmb3JrTW9kZT5vbmNlPC9mb3JrTW9kZT4KCQkJCQk8YXJnTGluZT4ke2phY29jby5hZ2VudC5hcmcudXR9PC9hcmdMaW5lPgoJCQkJPC9jb25maWd1cmF0aW9uPgoJCQk8L3BsdWdpbj4K</text>
+      <register name="0" type="4">
+        <text>github.com/julianps/modelmapper-module-vavr.git</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3045,19 +3046,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJ1aWxkPgogICAgICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1ncGctcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjY8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4ZWN1dGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aWQ+c2lnbi1hcnRpZmFjdHM8L2lkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwaGFzZT52ZXJpZnk8L3BoYXNlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+c2lnbjwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9leGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2lucz4KICAgICAgICAgICAgPC9idWlsZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">IyB2aXJ0dWFsIG1hY2hpbmUgY3Jhc2ggbG9ncywgc2VlIGh0dHA6Ly93d3cuamF2YS5jb20vZW4vZG93bmxvYWQvaGVscC9lcnJvcl9ob3RzcG90LnhtbApoc19lcnJfcGlkKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS42PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Ki5lYXIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5686,25 +5687,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">IyBCbHVlSiBmaWxlcwoqLmN0eHQKCiMgTW9iaWxlIFRvb2xzIGZvciBKYXZhIChKMk1FKQoubXRqLnRtcC8KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgo=</text>
+        <text encoding="base64">dGFyZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>jaco</last-search>
+      <last-search>release</last-search>
       <last-offset />
-      <last-pattern>jaco</last-pattern>
+      <last-pattern>release</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>AvailabilityResponse</entry>
         <entry>AVAIL</entry>
         <entry>availabi</entry>
         <entry>readF</entry>
@@ -5724,6 +5724,7 @@
         <entry>ass</entry>
         <entry>suref</entry>
         <entry>jaco</entry>
+        <entry>release</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
