@@ -2251,7 +2251,7 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1532423371010">
+      <file name="/fragment.java" timestamp="1532435261326">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2404,6 +2404,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/AvailabilityResultCalculator.java" timestamp="1532435470493" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/unit/controllers/CheckoutBaseResponse.java" timestamp="1510923075768">
         <mark key="[" line="2" column="35" />
         <mark key="]" line="2" column="55" />
@@ -2753,6 +2754,7 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="39" column="41" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/FundingSourceAvailabilityProcessor.java" timestamp="1532435072125" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/model/business/Delivery.java" timestamp="1511261063302">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="33" />
