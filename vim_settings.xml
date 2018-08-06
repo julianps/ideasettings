@@ -783,6 +783,9 @@
         <mark key="^" line="43" column="24" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1533543794505">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/processors/MetaDataProcessor.java" timestamp="1519978323209">
         <mark key="[" line="22" column="50" />
         <mark key="]" line="22" column="51" />
@@ -2479,6 +2482,11 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="10" column="35" />
       </file>
+      <file name="$USER_HOME$/projects/modelmapper-module-vavr/pom.xml" timestamp="1533549525569">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/saleschannel/SalesChannel.java" timestamp="1521731262147">
         <mark key="[" line="6" column="4" />
         <mark key="]" line="6" column="27" />
@@ -2825,7 +2833,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/sbtShell" timestamp="1533543657792">
+      <file name="/sbtShell" timestamp="1533545627960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -3074,13 +3082,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>T</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>selection</text>
