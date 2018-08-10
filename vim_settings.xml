@@ -453,12 +453,12 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/projects/payment-gateway/test/nakadi/events/SelectedPaymentMethodEventTest.scala" timestamp="1533886407857">
-        <mark key="'" line="11" column="30" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/projects/payment-gateway/test/nakadi/events/SelectedPaymentMethodEventTest.scala" timestamp="1533889270994">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="13" column="104" />
+        <mark key="]" line="13" column="126" />
+        <mark key="^" line="13" column="126" />
+        <mark key="." line="13" column="126" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/PaymentControllerTest.java" timestamp="1530188397224">
         <mark key="[" line="9" column="3" />
@@ -2351,7 +2351,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/payment-gateway/test/spec/DisplayPaymentMethodMockData.scala" timestamp="1533885883990" />
+      <file name="$USER_HOME$/projects/payment-gateway/test/spec/DisplayPaymentMethodMockData.scala" timestamp="1533887591221">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="115" column="39" />
+        <mark key="]" line="115" column="52" />
+        <mark key="." line="115" column="52" />
+        <mark key="^" line="115" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/model/business/DbLinkWithExternalUxHooks.java" timestamp="1512380822415">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -3010,8 +3016,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
-      <jump line="137" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="148" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="159" column="8" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
       <jump line="38" column="40" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/models/business/fundingsources/PaymentCardFundingSourceStateCalculatorTest.java" />
@@ -3110,46 +3114,48 @@
       <jump line="21" column="83" filename="$USER_HOME$/projects/payment-gateway/conf/routes" />
       <jump line="22" column="0" filename="$USER_HOME$/projects/payment-gateway/app/nakadi/events/SelectedPaymentMethodEvent.scala" />
       <jump line="11" column="30" filename="$USER_HOME$/projects/payment-gateway/test/nakadi/events/SelectedPaymentMethodEventTest.scala" />
+      <jump line="112" column="0" filename="$USER_HOME$/projects/payment-gateway/test/spec/DisplayPaymentMethodMockData.scala" />
+      <jump line="15" column="23" filename="$USER_HOME$/projects/payment-gateway/test/nakadi/events/SelectedPaymentMethodEventTest.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFyIHggPSBpbW11LlNlcSAvLyB4ID0gbGFsYQogICAgdmFsIHgyPSBpbW11LlNlcSAvLyB4IFwuYXAKICAgIHZhbCB5ID0gbXV0LlNlcQogICAgdmFyIHkyPSAK</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>ChannelsS</text>
+        <text>visa</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">d2l0aCBPbmVDb25maWd1cmFibGVBcHBQZXJTdWl0ZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBhdmFpbGFibGVDcmVkaXRDYXJkID0gdmVyaWZpZWRCeVZpc2EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFyIHggPSBpbW11LlNlcSAvLyB4ID0gbGFsYQogICAgdmFsIHgyPSBpbW11LlNlcSAvLyB4IFwuYXAKICAgIHZhbCB5ID0gbXV0LlNlcQogICAgdmFyIHkyPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">ICAgIHZhbCB0ZWNobmljYWxseVVuYXZhaWxhYmxlQ3JlZGl0Q2FyZCA9IHZpc2FUZWNobmljYWxseU5vdEF2YWlsYWJsZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBhdmFpbGFibGVDcmVkaXRDYXJkID0gdmVyaWZpZWRCeVZpc2EK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMuY2hhbm5lbHMuc2VydmljZS5QYXltZW50Q2hhbm5lbHNTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgIHBheW1lbnRDaGFubmVscy4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaGFubmVsczogU2VxW1BheW1lbnRDaGFubmVsXSA9IGNoYW5uZWxzU2VydmljZS5jaGFubmVscy5maWx0ZXIoYyA9PiB0ZWNobmljYWxBdmFpbGFibGVDaGFubmVscyhkcG1zKS5jb250YWlucyhjLm5hbWUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxzLmZpbmQoXy5uYW1lLmNvbnRhaW5zKHBheW1lbnRDaGFubmVsQnlQYXltZW50TWV0aG9kKSkgbWF0Y2ggewo=</text>
+        <text encoding="base64">ICAgIH0geWllbGQgY2hhbm5lbC5uYW1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5778,26 +5784,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaGFubmVsczogU2VxW1BheW1lbnRDaGFubmVsXSA9IGNoYW5uZWxzU2VydmljZS5jaGFubmVscy5maWx0ZXIoYyA9PiB0ZWNobmljYWxBdmFpbGFibGVDaGFubmVscyhkcG1zKS5jb250YWlucyhjLm5hbWUpKQo=</text>
+        <text encoding="base64">ICAgICAgY2hhbm5lbCA8LSBhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxTZXJ2aWNlOiAgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdHJpbmdzID0gZm9yIHsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ChannelsS</last-search>
+      <last-search>visa</last-search>
       <last-offset />
-      <last-pattern>ChannelsS</last-pattern>
+      <last-pattern>visa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spring</entry>
-        <entry>Base</entry>
         <entry>tuple</entry>
         <entry>getse</entry>
         <entry>getSe</entry>
@@ -5816,6 +5820,8 @@
         <entry>Safe</entry>
         <entry>Save</entry>
         <entry>ChannelsS</entry>
+        <entry>isTechnicalAvailable = false</entry>
+        <entry>visa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
