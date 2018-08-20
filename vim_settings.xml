@@ -531,6 +531,9 @@
         <mark key="^" line="28" column="80" />
         <mark key="." line="28" column="80" />
       </file>
+      <file name="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" timestamp="1534758562783">
+        <mark key="'" line="550" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/exception/BadRequestProblem.java" timestamp="1522327027851">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -2764,7 +2767,6 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/payment-gateway/app/models/PaymentConsumerData.scala" timestamp="1534326084758" />
       <file name="$USER_HOME$/projects/payment-gateway/.gitignore" timestamp="1533808109272">
         <mark key="[" line="25" column="3" />
         <mark key="]" line="25" column="3" />
@@ -2776,7 +2778,6 @@
         <mark key="]" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/payment-gateway/app/processors/BusinessLogicProcessor.scala" timestamp="1534326935580" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/security/jwt/JwtTokenService.java" timestamp="1530002262547">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -3041,11 +3042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="30" filename="$USER_HOME$/Projects/purchase-service/src/test/resources/testdata/services/models/business/fundingsources/ResponseFromAvailability.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/purchase-service/pom.xml" />
-      <jump line="76" column="34" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
-      <jump line="89" column="19" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
-      <jump line="175" column="0" filename="$USER_HOME$/Projects/purchase-service/src/test/resources/testdata/services/models/business/fundingsources/ResponseFromAvailability.json" />
       <jump line="190" column="4" filename="$USER_HOME$/Projects/purchase-service/src/test/resources/testdata/services/models/business/fundingsources/ResponseFromAvailability.json" />
       <jump line="176" column="15" filename="$USER_HOME$/Projects/purchase-service/src/test/resources/testdata/services/models/business/fundingsources/ResponseFromAvailability.json" />
       <jump line="179" column="17" filename="$USER_HOME$/Projects/purchase-service/src/test/resources/testdata/services/models/business/fundingsources/ResponseFromAvailability.json" />
@@ -3141,6 +3137,11 @@
       <jump line="219" column="43" filename="$USER_HOME$/projects/payment-gateway/app/controllers/ShowSelectionCtrlImpl.scala" />
       <jump line="223" column="43" filename="$USER_HOME$/projects/payment-gateway/app/controllers/ShowSelectionCtrlImpl.scala" />
       <jump line="236" column="42" filename="$USER_HOME$/projects/payment-gateway/app/controllers/ShowSelectionCtrlImpl.scala" />
+      <jump line="565" column="29" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
+      <jump line="530" column="30" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
+      <jump line="542" column="21" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
+      <jump line="546" column="18" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
+      <jump line="550" column="26" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3153,7 +3154,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>skipp</text>
+        <text>PANK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBhdmFpbGFibGVDcmVkaXRDYXJkID0gdmVyaWZpZWRCeVZpc2EK</text>
@@ -5819,17 +5820,14 @@
       </register>
     </registers>
     <search>
-      <last-search>skipp</last-search>
+      <last-search>PANK</last-search>
       <last-offset />
-      <last-pattern>skipp</last-pattern>
+      <last-pattern>PANK</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getse</entry>
-        <entry>getSe</entry>
-        <entry>getPurchaseSession</entry>
         <entry>getSession</entry>
         <entry>Asser</entry>
         <entry>asser</entry>
@@ -5847,6 +5845,9 @@
         <entry>isTechnicalAvailable = false</entry>
         <entry>visa</entry>
         <entry>skipp</entry>
+        <entry>MAKSU</entry>
+        <entry>TAPIO</entry>
+        <entry>PANK</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
