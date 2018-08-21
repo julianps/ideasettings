@@ -1742,6 +1742,7 @@
         <mark key="^" line="31" column="30" />
         <mark key="." line="31" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/Checkout.java" timestamp="1534854750402" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/fundingsources/BaseFundingSource.java" timestamp="1529667192338">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="14" column="17" />
