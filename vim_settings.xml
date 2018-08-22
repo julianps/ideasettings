@@ -757,6 +757,9 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1534942735515">
+        <mark key="'" line="123" column="24" />
+      </file>
       <file name="$USER_HOME$/.m2/settings.xml" timestamp="1532355422889">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="22" />
@@ -1140,6 +1143,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/business/Consumer.java" timestamp="1534943450126">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/unit/controllers/PurchaseSessionConverterTest.java" timestamp="1510911489511">
         <mark key="[" line="83" column="1" />
@@ -1840,11 +1849,10 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" timestamp="1531830627576">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="99" column="19" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" timestamp="1534943822781">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/DefaultContextServiceProviderImpl.java" timestamp="1518716866556">
         <mark key="[" line="14" column="0" />
@@ -2987,6 +2995,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1534942882327" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/ResourceMetaDataResponse.java" timestamp="1511185025436">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -3060,7 +3069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="41" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
       <jump line="107" column="27" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
       <jump line="148" column="52" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
       <jump line="152" column="18" filename="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" />
@@ -3160,46 +3168,47 @@
       <jump line="79" column="19" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
       <jump line="5" column="53" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
       <jump line="63" column="56" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
+      <jump line="123" column="24" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBqYXZhLnV0aWwuTGlzdDxEZWxpdmVyVG9QYXJ0eT4gZGVsaXZlclRvUGFydGllcyA9IGNoZWNrb3V0LmdldERlbGl2ZXJpZXMoKS5zdHJlYW0oKQo=</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Content</text>
+        <text>pat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhbCBhdmFpbGFibGVDcmVkaXRDYXJkID0gdmVyaWZpZWRCeVZpc2EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBqYXZhLnV0aWwuTGlzdDxEZWxpdmVyVG9QYXJ0eT4gZGVsaXZlclRvUGFydGllcyA9IGNoZWNrb3V0LmdldERlbGl2ZXJpZXMoKS5zdHJlYW0oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja291dC5nZXREZWxpdmVyaWVzKCkuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25zdW1lclBhdGNoIGNvbnN1bWVyUGF0Y2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBCZWFyZXIgZXlKcmFXUWlPaUp3YkdGMFptOXliUzFwWVcwdGRtTmxhSGxvYWpZaUxDSmhiR2NpT2lKRlV6STFOaUo5LmV5SnpkV0lpT2lKa05XRXpaRGRsTWkxbFpUQXlMVFE0WVRNdE9UWmpZaTFtWkRnNU5tUmpOMlF4T0dVaUxDSm9kSFJ3Y3pvdkwybGtaVzUwYVhSNUxucGhiR0Z1Wkc4dVkyOXRMM0psWVd4dElqb2lkWE5sY25NaUxDSm9kSFJ3Y3pvdkwybGtaVzUwYVhSNUxucGhiR0Z1Wkc4dVkyOXRMM1J2YTJWdUlqb2lRbVZoY21WeUlpd2lhSFIwY0hNNkx5OXBaR1Z1ZEdsMGVTNTZZV3hoYm1SdkxtTnZiUzl0WVc1aFoyVmtMV2xrSWpvaWFuTjBkV1ZqYTJWeUlpd2lZWHB3SWpvaWVuUnZhMlZ1SWl3aWFIUjBjSE02THk5cFpHVnVkR2wwZVM1NllXeGhibVJ2TG1OdmJTOWljQ0k2SWpneE1HUXhaREF3TFRRek1USXRORE5sTlMxaVpETXhMV1E0TXpjelptUmtNalJqTnlJc0ltRjFkR2hmZEdsdFpTSTZNVFV6TXpVME16RTROU3dpYVhOeklqb2lhSFIwY0hNNkx5OXBaR1Z1ZEdsMGVTNTZZV3hoYm1SdkxtTnZiU0lzSW1WNGNDSTZNVFV6TkRFMU5Ua3pNeXdpYVdGMElqb3hOVE0wTVRVeU16SXpmUS41c04tWVVkV1R3NGJWY01rVWgtalVvYUpCQklLaGJKWXZ4WEl2d1dUUkRHdGVZRnNJQ3NQWWVlOVpYcHg5WENSaGYxTUdEV0pKeW5jSTd1dHdUTUxYZwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDb25zdW1lciBjb25zdW1lciA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRDb25zdW1lcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTZXQ8UGFydHk+IGNvbnN1bWVyUGFydGllcyA9IGNoZWNrb3V0LmdldEJpbGxUb1BhcnRpZXMoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA2NmZmZjY2Ni1mNjY2LTY2NmYtNjY2Ni02ZmZmNmY2NjY2NjYK</text>
+        <text encoding="base64">aW1wb3J0IGlvLnZhdnIuY29sbGVjdGlvbi5TZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAzM2NhZTM3NS1kODQxLTQ2N2QtODUzNC0yY2RhM2I4NTQyMDMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5831,22 +5840,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB0ZWNobmljYWxseVVuYXZhaWxhYmxlQ3JlZGl0Q2FyZCA9IHZpc2FUZWNobmljYWxseU5vdEF2YWlsYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Content</last-search>
+      <last-search>pat</last-search>
       <last-offset />
-      <last-pattern>Content</last-pattern>
+      <last-pattern>pat</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Asser</entry>
         <entry>asser</entry>
         <entry>ass</entry>
         <entry>suref</entry>
@@ -5866,6 +5874,7 @@
         <entry>TAPIO</entry>
         <entry>PANK</entry>
         <entry>Content</entry>
+        <entry>pat</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
