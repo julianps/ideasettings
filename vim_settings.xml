@@ -1240,7 +1240,7 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" timestamp="1535373112145">
+      <file name="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" timestamp="1535376874695">
         <mark key="'" line="384" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service.wiki/.gitignore" timestamp="1525077405414">
@@ -1859,11 +1859,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ModelMapperConfig.java" timestamp="1535376236437">
-        <mark key="[" line="37" column="71" />
-        <mark key="]" line="37" column="84" />
-        <mark key="." line="37" column="84" />
-        <mark key="^" line="37" column="84" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ModelMapperConfig.java" timestamp="1535380390347">
+        <mark key="'" line="38" column="14" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="49" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/ContextService.java" timestamp="1518772030760">
         <mark key="[" line="8" column="17" />
@@ -2099,6 +2100,7 @@
         <mark key="^" line="6" column="184" />
         <mark key="." line="6" column="184" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/PropertyInfoImpl.java" timestamp="1535378375729" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/InvalidInputException.java" timestamp="1508485285691">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3049,8 +3051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="8" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" />
-      <jump line="274" column="16" filename="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/controllers/CheckoutControllerIntegrationTest.java" />
       <jump line="111" column="84" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" />
       <jump line="110" column="15" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" />
       <jump line="116" column="51" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessorTest.java" />
@@ -3149,25 +3149,27 @@
       <jump line="156" column="57" filename="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" />
       <jump line="176" column="57" filename="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" />
       <jump line="384" column="21" filename="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" />
+      <jump line="49" column="71" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ModelMapperConfig.java" />
+      <jump line="38" column="14" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ModelMapperConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>TypeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlTWFwLmFkZE1hcHBpbmcoc3JjIC0+IHNyYy5nZXRCaWxsVG9QYXJ0aWVzKCkuZ2V0KDApLCAoZGVzdCwgdikgLT4gZGVzdC5zZXRCaWxsVG9QYXJ0aWVzKChCaWxsVG9QYXJ0eSl2KSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgTGlzdENvbnZlcnRlciBleHRlbmRzIEFic3RyYWN0Q29udmVydGVyPExpc3Q8QmlsbFRvUGFydHlJbmZvPiwgQmlsbFRvUGFydHlJbmZvPiB7CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHByb3RlY3RlZCBCaWxsVG9QYXJ0eUluZm8gY29udmVydChMaXN0PEJpbGxUb1BhcnR5SW5mbz4gc291cmNlKSB7CiAgICAgICAgICAgIHJldHVybiBzb3VyY2UuZ2V0KDApOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbE1hcHBlci5jcmVhdGVUeXBlTWFwKGRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3176,19 +3178,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXI8TGlzdDxCaWxsVG9QYXJ0eT4sIEJpbGxUb1BhcnR5PiBleHRyYWN0UGFydHkgPSBjdHggLT4gY3R4LmdldFNvdXJjZSgpID09IG51bGwgPyBudWxsIDogKEJpbGxUb1BhcnR5KSBjdHguZ2V0U291cmNlKCkuZ2V0KDApOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlTWFwLmFkZE1hcHBpbmdzKG1hcHBlciAtPiBtYXBwZXIudXNpbmcoZXh0cmFjdFBhcnR5KS5tYXAoc3JjIC0+IHNyYy5nZXRCaWxsVG9QYXJ0aWVzKCksIChkc3QsIHYpIC0+IGRzdC5zZXRCaWxsVG9QYXJ0aWVzKChCaWxsVG9QYXJ0eSl2KSkpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwcm90ZWN0ZWQgQ2hlY2tvdXQgY29udmVydChDaGVja291dFJlcXVlc3Qgc291cmNlKSB7CiAgICAgICAgICAgIGZpbmFsIENoZWNrb3V0IGRlc3RpbmF0aW9uID0gbmV3IENoZWNrb3V0KCk7CiAgICAgICAgICAgIGZpbmFsIEJpbGxUb1BhcnR5SW5mbyBiaWxsVG9QYXJ0eUluZm8gPSBzb3VyY2UuZ2V0QmlsbFRvUGFydGllcygpLmdldCgwKTsKCiAgICAgICAgICAgIGZpbmFsIEJpbGxUb1BhcnR5IGJpbGxUb1BhcnR5ID0gYmlsbFRvUGFydHlJbmZvLmdldAoKCiAgICAgICAgICAgIGRlc3RpbmF0aW9uLnNldEJpbGxUb1BhcnRpZXMoc291cmNlLmdldEJpbGxUb1BhcnRpZXMoKS5nZXQoMCkpOwogICAgICAgICAgICByZXR1cm4gZGVzdGluYXRpb247CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlTWFwLnNldFByZUNvbnZlcnRlcihuZXcgUGFydHlQcmVDb252ZXJ0ZXIoKSk7ZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb252ZXJ0ZXI8TGlzdDxCaWxsVG9QYXJ0eT4sIEJpbGxUb1BhcnR5PiBleHRyYWN0UGFydHkgPSBjdHggLT4gY3R4LmdldFNvdXJjZSgpID09IG51bGwgPyBudWxsIDogKEJpbGxUb1BhcnR5KSBjdHguZ2V0U291cmNlKCkuZ2V0KDApOwogICAgICAgIGZpbmFsIFR5cGVNYXA8Q2hlY2tvdXRSZXF1ZXN0LCBDaGVja291dD4gdHlwZU1hcCA9IG1vZGVsTWFwcGVyLmdldFR5cGVNYXAoQ2hlY2tvdXRSZXF1ZXN0LmNsYXNzLCBDaGVja291dC5jbGFzcyk7CiAgICAgICAgdHlwZU1hcC5hZGRNYXBwaW5ncyhtYXBwZXIgLT4gbWFwcGVyLnVzaW5nKGV4dHJhY3RQYXJ0eSkubWFwKHNyYyAtPiBzcmMuZ2V0QmlsbFRvUGFydGllcygpLCAoZHN0LCB2KSAtPiBkc3Quc2V0QmlsbFRvUGFydGllcygoQmlsbFRvUGFydHkpdikpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5817,10 +5819,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm92aWRlcjxCaWxsVG9QYXJ0eT4gcGVyc29uUHJvdmlkZXIgPSByZXEgLT4gbmV3IEJpbGxUb1BhcnR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgUGFydHlQcmVDb252ZXJ0ZXIoKSB7CiAgICAgICAgICAgIHN1cGVyKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
