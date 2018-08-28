@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaCodeInsightSettings">
+    <option name="showLocalVariableType" value="true" />
+  </component>
+</application>
