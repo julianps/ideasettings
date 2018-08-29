@@ -1826,11 +1826,6 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" timestamp="1535533278482">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/DefaultContextServiceProviderImpl.java" timestamp="1518716866556">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
