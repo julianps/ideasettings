@@ -431,12 +431,6 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/ContentTypes.java" timestamp="1534856867958">
-        <mark key="[" line="10" column="82" />
-        <mark key="]" line="10" column="87" />
-        <mark key="^" line="10" column="87" />
-        <mark key="." line="10" column="87" />
-      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/SwaggerUiController.java" timestamp="1522850364766">
         <mark key="[" line="15" column="16" />
         <mark key="]" line="15" column="20" />
@@ -1297,6 +1291,12 @@
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1535985795233">
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/utest/converters/CheckoutConverterTest.java" timestamp="1512636977899">
         <mark key="[" line="23" column="0" />
@@ -3211,14 +3211,14 @@
       <jump line="134" column="59" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/CheckoutService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>TypeMap</text>
