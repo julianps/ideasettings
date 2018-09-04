@@ -784,6 +784,12 @@
         <mark key="^" line="42" column="57" />
         <mark key="." line="42" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-local.properties" timestamp="1536065243531">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="18" column="68" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/FundingSourceAvailabilityProcessorTest.java" timestamp="1530278874859">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="71" />
@@ -1478,8 +1484,8 @@
         <mark key="^" line="56" column="33" />
         <mark key="." line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/resources/application-test.properties" timestamp="1536062381695">
-        <mark key="[" line="28" column="46" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/resources/application-test.properties" timestamp="1536065235562">
+        <mark key="[" line="26" column="0" />
         <mark key="]" line="28" column="67" />
         <mark key="." line="28" column="67" />
         <mark key="^" line="28" column="67" />
@@ -3246,20 +3252,20 @@
       <jump line="34" column="15" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMgTW91bnRlYmFuayBzZXJ2aWNlIG1vY2tzCmNvbXBvbmVudHMuY29uc3VtZXJfc3RvcmVfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAxCmNvbXBvbmVudHMucGF5bWVudF9hdmFpbGFiaWxpdHlfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAyCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>TypeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29tcG9uZW50cy5wYXltZW50X2F2YWlsYWJpbGl0eV9zZXJ2aWNlLmhvc3QgPSBodHRwczovL3BheW1lbnQtYXZhaWxhYmlsaXR5LmtvaGxlLWludGVncmF0aW9uLnphbGFuLmRvCg==</text>
+        <text encoding="base64">IyMgTW91bnRlYmFuayBzZXJ2aWNlIG1vY2tzCmNvbXBvbmVudHMuY29uc3VtZXJfc3RvcmVfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAxCmNvbXBvbmVudHMucGF5bWVudF9hdmFpbGFiaWxpdHlfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cAo=</text>
