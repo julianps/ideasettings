@@ -710,6 +710,11 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" timestamp="1536052947583">
+        <mark key="[" line="1702" column="0" />
+        <mark key="]" line="1702" column="0" />
+        <mark key="." line="1702" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/dto/ConsumerPatch.java" timestamp="1535533167969">
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="23" />
@@ -3205,7 +3210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRVBBWU1FTlQgPSAiUFJFUEFZTUVOVCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3217,40 +3222,40 @@
         <text>TypeMap</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJzcXVpZDpVbmRvY3VtZW50ZWRBcGkiKQo=</text>
+        <text encoding="base64">ICAgICAgcHJlc2VsZWN0OgogICAgICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgICAgICBBIGZsYWcgdGhhdCBpbmRpY2F0ZXMgdGhhdCB0aGlzIGZ1bmRpbmcgc291cmNlIGlzIHRoZSBwcmVmZXJyZWQgb25lCiAgICAgICAgICBhbW9uZ3N0IHNldmVyYWwgZnVuZGluZyBzb3VyY2VzIG9mIHRoZSBzYW1lIHR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRVBBWU1FTlQgPSAiUFJFUEFZTUVOVCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZSRUUgPSAiRlJFRSI7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlc2VsZWN0Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZVBheW1lbnRNZXRob2QuZ2V0KCkuZ2V0UGF5bWVudE1ldGhvZEF2YWlsYWJpbGl0eSgpLmdldEJyYW5kSWRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgcHJlc2VsZWN0OgogICAgICAgIGRlc2NyaXB0aW9uOiB8CiAgICAgICAgICBBIGZsYWcgdGhhdCBpbmRpY2F0ZXMgdGhhdCB0aGlzIGZ1bmRpbmcgc291cmNlIGlzIHRoZSBwcmVmZXJyZWQgb25lCiAgICAgICAgICBhbW9uZ3N0IHNldmVyYWwgZnVuZGluZyBzb3VyY2VzIG9mIHRoZSBzYW1lIHR5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoQXJyYXlzLmFzTGlzdChCcmFuZElkcy5GUkVFKSwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRVBBWU1FTlQgPSAiUFJFUEFZTUVOVCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBMaXN0LmVtcHR5KCksCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEZSRUUgPSAiRlJFRSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZVBheW1lbnRNZXRob2QuZ2V0KCkuZ2V0UGF5bWVudE1ldGhvZEF2YWlsYWJpbGl0eSgpLmdldEJyYW5kSWRzKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoQXJyYXlzLmFzTGlzdChCcmFuZElkcy5GUkVFKSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBMaXN0LmVtcHR5KCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNISVBQSU5HID0gImRlbGl2ZXJ5IjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBCSUxMSU5HID0gImJpbGxUb1BhcnR5IjsK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
