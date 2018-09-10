@@ -775,11 +775,10 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536225339712">
-        <mark key="[" line="490" column="49" />
-        <mark key="]" line="490" column="49" />
-        <mark key="^" line="472" column="74" />
-        <mark key="." line="490" column="49" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536563250764">
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="393" column="0" />
+        <mark key="." line="393" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1536154991317">
         <mark key="[" line="29" column="28" />
@@ -3285,7 +3284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVDYXJkRnVuZGluZ1NvdXJjZXNJbgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3300,7 +3299,7 @@
         <text encoding="base64">QFNsZjRqCkBTZXJ2aWNlCkBBbGxBcmdzQ29uc3RydWN0b3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdmFpbGFibGVDYXJkRnVuZGluZ1NvdXJjZXNJbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3309,28 +3308,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcmVzZWxlY3Qgd2hldGhlciB0aGUgZnVuZGluZyBzb3VyY2Ugc2hvdWxkIGJlIHByZXNlbGVjdGVkCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBwcmVzZWxlY3Q7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRoYXQoCiAgICAgICAgICAgICAgICBwYXltZW50U2VsZWN0aW9uLmdldEZ1bmRpbmdTb3VyY2VzKCkuZ2V0UGF5bWVudENhcmRzKCkuZ2V0SXRlbXMoKS5zdHJlYW0oKS5maWx0ZXIobSAtPiBtLmdldENhcmRGdW5kaW5nU291cmNlRXh0ZXJuYWwoKS5lcXVhbHMoKSkKICAgICAgICApCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcmVzZWxlY3Qgd2hldGhlciB0aGUgZnVuZGluZyBzb3VyY2Ugc2hvdWxkIGJlIHByZXNlbGVjdGVkCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBwcmVzZWxlY3Q7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zLmFzc2VydFRoYXQoCiAgICAgICAgICAgICAgICBwYXltZW50U2VsZWN0aW9uLmdldEZ1bmRpbmdTb3VyY2VzKCkuZ2V0UGF5bWVudENhcmRzKCkuZ2V0SXRlbXMoKS5zdHJlYW0oKS5maWx0ZXIobSAtPiBtLmdldENhcmRGdW5kaW5nU291cmNlRXh0ZXJuYWwoKS5lcXVhbHMoKSkKICAgICAgICApCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIGtjYwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIGtjYwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
