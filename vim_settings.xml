@@ -652,6 +652,7 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1536740546638" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/EnumMessageInterpolator.java" timestamp="1517391937891">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -772,11 +773,12 @@
         <mark key="." line="19" column="13" />
         <mark key="^" line="19" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536736662844">
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="^" line="356" column="32" />
-        <mark key="." line="358" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536741801659">
+        <mark key="'" line="341" column="66" />
+        <mark key="[" line="580" column="69" />
+        <mark key="]" line="581" column="15" />
+        <mark key="^" line="581" column="15" />
+        <mark key="." line="581" column="15" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1536669821062">
         <mark key="[" line="141" column="14" />
@@ -1341,12 +1343,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1536737368423">
-        <mark key="'" line="254" column="19" />
-        <mark key="[" line="282" column="25" />
-        <mark key="]" line="282" column="30" />
-        <mark key="." line="282" column="30" />
-        <mark key="^" line="282" column="30" />
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1536739229306">
+        <mark key="'" line="295" column="30" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/utest/converters/CheckoutConverterTest.java" timestamp="1512636977899">
         <mark key="[" line="23" column="0" />
@@ -3215,12 +3216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/DefaultPreferredPaymentProcessor.java" />
-      <jump line="61" column="63" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/DefaultPreferredPaymentProcessor.java" />
-      <jump line="114" column="42" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/DefaultPreferredPaymentProcessor.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/projects/modelmapper-module-vavr/src/main/java/org/modelmapper/module/vavr/collections/SeqConverter.java" />
-      <jump line="15" column="36" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
-      <jump line="386" column="94" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="440" column="33" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="470" column="34" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="68" column="0" filename="$USER_HOME$/projects/modelmapper-module-vavr/src/test/java/org/modelmapper/module/vavr/ValueConverterTest.java" />
@@ -3315,71 +3310,75 @@
       <jump line="503" column="65" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="254" column="19" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
+      <jump line="295" column="30" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
+      <jump line="290" column="0" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
+      <jump line="329" column="65" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
+      <jump line="390" column="76" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
+      <jump line="342" column="13" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
+      <jump line="356" column="66" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGZ1bmRpbmdTb3VyY2VBdmFpbGFiaWxpdHkuZ2V0QXZhaWxhYmxlRnVuZGluZ1NvdXJjZXMoYW55KCksIGFueSgpLCBhbnkoKSkpCiAgICAgICAgICAgICAgICAudGhlblJldHVybihhdmFpbGFibGVGdW5kaW5nU291cmNlcyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>surefi</text>
+        <text>preferred</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGZ1bmRpbmdTb3VyY2VBdmFpbGFiaWxpdHkuZ2V0QXZhaWxhYmxlRnVuZGluZ1NvdXJjZXMoYW55KCksIGFueSgpLCBhbnkoKSkpCiAgICAgICAgICAgICAgICAudGhlblJldHVybihhdmFpbGFibGVGdW5kaW5nU291cmNlcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+JHtqdW5pdC5qdXBpdGVyLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+JHtqdW5pdC5qdXBpdGVyLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBARGlzcGxheU5hbWUoIlNob3VsZCBzZWxlY3QgdGhlIHNhbWUgUGF5bWVudE1ldGhvZCBhcyBhdmFpbGFibGUgaW4gdGhlIFByZWZlcnJlZFBheW1lbnQgd2hpY2ggaXMgbm90IGEgQ0MuIikKICAgIHB1YmxpYyB2b2lkIHNob3VsZFByZXNlbGVjdFBtQygpIHsKICAgICAgICAvLyBwcmVwYXJlCiAgICAgICAgZmluYWwgUHVyY2hhc2VTZXNzaW9uIHB1cmNoYXNlU2Vzc2lvbiA9IHByZXBhcmVJbmNvbXBsZXRlU2Vzc2lvbigKICAgICAgICAgICAgICAgIFN0dWJGYWN0b3J5LnN0dWJTZXNzaW9uV2l0aENoZWNrb3V0QW5kUHJlZmVycmVkUGF5bWVudF9DQygpKTsKICAgICAgICBmaW5hbCBQcmVmZXJyZWRQYXltZW50IHByZWZlcnJlZFBheW1lbnQgPSBwdXJjaGFzZVNlc3Npb24uZ2V0Q2hlY2tvdXQoKS5nZXRQcmVmZXJyZWRQYXltZW50KCk7CgogICAgICAgIHByZXBhcmVQYXltZW50TWV0aG9kcyhIVFRQX0xJTkssIHByZXBhcmVBdmFpbGFibGVGdW5kaW5nU291cmNlcyhIVFRQX0xJTkssIG51bGwsIG51bGwpKTsKCiAgICAgICAgZmluYWwgUGF5bWVudFNlbGVjdGlvbiBwYXltZW50U2VsZWN0aW9uID0gcGF5bWVudFNlcnZpY2UuZ2V0UGF5bWVudFNlbGVjdGlvbihwdXJjaGFzZVNlc3Npb24uZ2V0SWQoKSk7CgogICAgICAgIC8vIHRlc3QgdGhhdCB0aGUgcGF5bWVudC1tZXRob2QgaXMgdGhlIGNvcnJlY3Qgb25lCiAgICAgICAgQXNzZXJ0aW9ucwogICAgICAgICAgICAgICAgLmFzc2VydFRoYXQocGF5bWVudFNlbGVjdGlvbi5nZXRQYXltZW50TWV0aG9kcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5maWx0ZXIobSAtPiBtLmdldFBheW1lbnRNZXRob2QoKS5nZXRQcmVTZWxlY3QoKS5lcXVhbHMoQm9vbGVhbi5UUlVFKSkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChwbSAtPiBwbS5nZXRQYXltZW50TWV0aG9kKCkuaGFzaENvZGUoKSkpCiAgICAgICAgICAgICAgICAuaXNFcXVhbFRvKHByZWZlcnJlZFBheW1lbnQuZ2V0UGF5bWVudCgpLmhhc2hDb2RlKCkpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHZlcnNpb24+JHtqdW5pdC5qdXBpdGVyLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0LnBsYXRmb3JtPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5qdW5pdC5qdXBpdGVyPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdC1qdXBpdGVyLWFwaTwvYXJ0aWZhY3RJZD4KCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBARGlzcGxheU5hbWUoIlRlc3RzIHRoYXQgdGhlIFBheW1lbnRTZWxlY3Rpb24gY29udGFpbnMgZnVuZGluZ2luZ1NvdXJjZXMgYW5kIHBheW1lbnRNZXRob2RzIikKICAgIHB1YmxpYyB2b2lkIGdldFNlbGVjdGlvblN1Y2Nlc3NUZXN0KCkgewogICAgICAgIHByZXBhcmVJbmNvbXBsZXRlU2Vzc2lvbihTdHViRmFjdG9yeS5zdHViU2Vzc2lvbigpKTsKICAgICAgICBBdmFpbGFibGVGdW5kaW5nU291cmNlcyBmdW5kaW5nU291cmNlcyA9IHByZXBhcmVBdmFpbGFibGVGdW5kaW5nU291cmNlcyhIVFRQX0xJTkssIG51bGwsIG51bGwpOwogICAgICAgIGphdmEudXRpbC5MaXN0PEF2YWlsYWJsZVBheW1lbnRNZXRob2Q+IHBheW1lbnRNZXRob2RzID0gcHJlcGFyZVBheW1lbnRNZXRob2RzKEhUVFBfTElOSywgZnVuZGluZ1NvdXJjZXMpOwoKICAgICAgICBQYXltZW50U2VsZWN0aW9uIHBheW1lbnRTZWxlY3Rpb24gPSBwYXltZW50U2VydmljZS5nZXRQYXltZW50U2VsZWN0aW9uKFVVSUQucmFuZG9tVVVJRCgpKTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGZ1bmRpbmdTb3VyY2VzLCBwYXltZW50U2VsZWN0aW9uLmdldEZ1bmRpbmdTb3VyY2VzKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhwYXltZW50TWV0aG9kcywgcGF5bWVudFNlbGVjdGlvbi5nZXRQYXltZW50TWV0aG9kcygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdC1ib208L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjUuMy4xPC92ZXJzaW9uPgoJCQk8dHlwZT5wb208L3R5cGU+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0Lmp1cGl0ZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItYXBpPC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBARGlzcGxheU5hbWUoIlRlc3RzIHRoYXQgdGhlIFBheW1lbnRTZWxlY3Rpb24gY29udGFpbnMgZnVuZGluZ2luZ1NvdXJjZXMgYW5kIHBheW1lbnRNZXRob2RzIikKICAgIHB1YmxpYyB2b2lkIGdldFNlbGVjdGlvblN1Y2Nlc3NUZXN0KCkgewogICAgICAgIHByZXBhcmVJbmNvbXBsZXRlU2Vzc2lvbihTdHViRmFjdG9yeS5zdHViU2Vzc2lvbigpKTsKICAgICAgICBBdmFpbGFibGVGdW5kaW5nU291cmNlcyBmdW5kaW5nU291cmNlcyA9IHByZXBhcmVBdmFpbGFibGVGdW5kaW5nU291cmNlcyhIVFRQX0xJTkssIG51bGwsIG51bGwpOwogICAgICAgIGphdmEudXRpbC5MaXN0PEF2YWlsYWJsZVBheW1lbnRNZXRob2Q+IHBheW1lbnRNZXRob2RzID0gcHJlcGFyZVBheW1lbnRNZXRob2RzKEhUVFBfTElOSywgZnVuZGluZ1NvdXJjZXMpOwoKICAgICAgICBQYXltZW50U2VsZWN0aW9uIHBheW1lbnRTZWxlY3Rpb24gPSBwYXltZW50U2VydmljZS5nZXRQYXltZW50U2VsZWN0aW9uKFVVSUQucmFuZG9tVVVJRCgpKTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGZ1bmRpbmdTb3VyY2VzLCBwYXltZW50U2VsZWN0aW9uLmdldEZ1bmRpbmdTb3VyY2VzKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhwYXltZW50TWV0aG9kcywgcGF5bWVudFNlbGVjdGlvbi5nZXRQYXltZW50TWV0aG9kcygpKTsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEF2YWlsYWJsZVBheW1lbnRNZXRob2Q+IHByZVNlbGVjdGVkUGF5bWVudE1ldGhvZHMgPSBwcmVwYXJlUGF5bWVudE1ldGhvZHMoSFRUUF9MSU5LKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBQcmVwYXJlIFBheW1lbnQtTWV0aG9kcwogICAgICAgIGZpbmFsIExpc3Q8QXZhaWxhYmxlUGF5bWVudE1ldGhvZD4gYXZhaWxhYmxlUGF5bWVudE1ldGhvZHMgPSBwcmVwYXJlUGF5bWVudE1ldGhvZHMoSFRUUF9MSU5LKTsKICAgICAgICBhdmFpbGFibGVQYXltZW50TWV0aG9kcy5nZXQoMCkuZ2V0UGF5bWVudE1ldGhvZCgpLnNldFByZVNlbGVjdCh0cnVlKTsKICAgICAgICB3aGVuKHByZWZlcnJlZFBheW1lbnRQcm9jZXNzb3IucHJlU2VsZWN0UGF5bWVudE1ldGhvZChBdmFpbGFibGVQYXltZW50TWV0aG9kcy5vZihhdmFpbGFibGVQYXltZW50TWV0aG9kcykpKQogICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4oQXZhaWxhYmxlUGF5bWVudE1ldGhvZHMub2YoYXZhaWxhYmxlUGF5bWVudE1ldGhvZHMpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>surefi</last-search>
+      <last-search>preferred</last-search>
       <last-offset />
-      <last-pattern>surefi</last-pattern>
+      <last-pattern>preferred</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>skipp</entry>
-        <entry>MAKSU</entry>
         <entry>TAPIO</entry>
         <entry>PANK</entry>
         <entry>Content</entry>
@@ -3398,6 +3397,8 @@
         <entry>jup</entry>
         <entry>jupi</entry>
         <entry>surefi</entry>
+        <entry>boot-starter-test</entry>
+        <entry>preferred</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
