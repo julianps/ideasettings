@@ -798,8 +798,7 @@
         <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536849954593">
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="416" column="4" />
+        <mark key="]" line="426" column="4" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1536669821062">
         <mark key="[" line="141" column="14" />
@@ -2076,12 +2075,6 @@
         <mark key="]" line="31" column="72" />
         <mark key="." line="31" column="72" />
         <mark key="^" line="31" column="72" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/DefaultPreferredPaymentProcessorTest.java" timestamp="1536850275765">
-        <mark key="[" line="392" column="68" />
-        <mark key="]" line="394" column="7" />
-        <mark key="^" line="394" column="7" />
-        <mark key="." line="394" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/end2end/CheckoutControllerSecurityTest.java" timestamp="1511469249506">
         <mark key="[" line="9" column="0" />
