@@ -669,12 +669,6 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1536848313824">
-        <mark key="[" line="114" column="77" />
-        <mark key="]" line="114" column="78" />
-        <mark key="." line="114" column="78" />
-        <mark key="^" line="114" column="78" />
-      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/EnumMessageInterpolator.java" timestamp="1517391937891">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -798,7 +792,7 @@
         <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" timestamp="1536849954593">
-        <mark key="]" line="426" column="4" />
+        <mark key="]" line="427" column="4" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" timestamp="1536669821062">
         <mark key="[" line="141" column="14" />
@@ -817,11 +811,6 @@
         <mark key="]" line="42" column="57" />
         <mark key="^" line="42" column="57" />
         <mark key="." line="42" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-local.properties" timestamp="1536580685626">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/FundingSourceAvailabilityProcessorTest.java" timestamp="1530278874859">
         <mark key="[" line="6" column="52" />
@@ -1368,12 +1357,6 @@
         <mark key="]" line="9" column="10" />
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1536848747468">
-        <mark key="'" line="285" column="30" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/utest/converters/CheckoutConverterTest.java" timestamp="1512636977899">
         <mark key="[" line="23" column="0" />
