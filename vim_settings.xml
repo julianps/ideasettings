@@ -674,11 +674,11 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1537800622208">
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="259" column="89" />
-        <mark key="." line="283" column="51" />
-        <mark key="^" line="283" column="51" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1537803188606">
+        <mark key="[" line="114" column="79" />
+        <mark key="]" line="114" column="86" />
+        <mark key="." line="114" column="86" />
+        <mark key="^" line="114" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/EnumMessageInterpolator.java" timestamp="1517391937891">
         <mark key="[" line="12" column="0" />
@@ -2082,12 +2082,12 @@
         <mark key="." line="31" column="72" />
         <mark key="^" line="31" column="72" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/DefaultPreferredPaymentProcessorTest.java" timestamp="1537800663563">
-        <mark key="'" line="469" column="112" />
-        <mark key="[" line="340" column="40" />
-        <mark key="]" line="341" column="15" />
-        <mark key="^" line="341" column="15" />
-        <mark key="." line="341" column="15" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/DefaultPreferredPaymentProcessorTest.java" timestamp="1537803462909">
+        <mark key="'" line="455" column="112" />
+        <mark key="[" line="395" column="133" />
+        <mark key="]" line="395" column="132" />
+        <mark key="^" line="395" column="132" />
+        <mark key="." line="395" column="132" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/end2end/CheckoutControllerSecurityTest.java" timestamp="1511469249506">
         <mark key="[" line="9" column="0" />
@@ -3344,40 +3344,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBQYXltZW50QXZhaWxhYmlsaXR5SXRlbSBwYXltZW50QXZhaWxhYmlsaXR5SXRlbV8yID0gU3R1YkZhY3Rvcnkuc3R1YkF2YWlsYWJpbGl0eUl0ZW0oQ2hhbm5lbC5WSVNBLAogICAgICAgICAgICAgICAgQ2hhbm5lbC5WSVNBLnRvU3RyaW5nKCksICJjYyIsCiAgICAgICAgICAgICAgICBBcnJheXMuYXNMaXN0KFR1cGxlLm9mKExpc3RzLmVtcHR5TGlzdCgpLCBMZWdhY3lUZXJtLklNTUVESUFURV9QQVlNRU5UKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmFpbGFibGVQYXltZW50TWV0aG9kIGludm9pY2UgPSBBdmFpbGFibGVQYXltZW50TWV0aG9kCiAgICAgICAgICAgICAgICAub2YoUGF5bWVudE1ldGhvZHMuaW52b2ljZSgpLCBQYXltZW50TWV0aG9kQXZhaWxhYmlsaXR5Lm9mZmVyZWQoSFRUUF9MSU5LLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHViRmFjdG9yeS5zdHViQXZhaWxhYmlsaXR5SXRlbShDaGFubmVsLlZJU0EsICJWSVNBIiwgaykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGF5bWVudE1ldGhvZHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUGF5bWVudEF2YWlsYWJpbGl0eUl0ZW0gc3R1YkF2YWlsYWJpbGl0eUl0ZW0oKSB7CiAgICAgICAgcmV0dXJuIFN0dWJGYWN0b3J5LmNyZWF0ZUF2YWlsYWJpbGl0eUl0ZW0oQ2hhbm5lbC5WSVNBLAogICAgICAgICAgICAgICAgQ2hhbm5lbC5WSVNBLnRvU3RyaW5nKCksICJjYyIsCiAgICAgICAgICAgICAgICBBcnJheXMuYXNMaXN0KFR1cGxlLm9mKExpc3RzLmVtcHR5TGlzdCgpLCBMZWdhY3lUZXJtLklNTUVESUFURV9QQVlNRU5UKSkpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmVwYXJlIGF2YWlsYWJpbGl0eSByZXNwb25zZQogICAgICAgIGZpbmFsIGlvLnZhdnIuY29sbGVjdGlvbi5MaXN0PFBheW1lbnRBdmFpbGFiaWxpdHlJdGVtPiBhdmFpbGFiaWxpdHlJdGVtcyA9IGlvLnZhdnIuY29sbGVjdGlvbi5MaXN0CiAgICAgICAgICAgICAgICAub2ZBbGwoU3R1YkZhY3Rvcnkuc3R1YlJhbmRvbUF2YWlsYWJpbGl0eUl0ZW1zKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBdmFpbGFibGVQYXltZW50TWV0aG9kIGludm9pY2UgPSBBdmFpbGFibGVQYXltZW50TWV0aG9kCiAgICAgICAgICAgICAgICAub2YoUGF5bWVudE1ldGhvZHMuaW52b2ljZSgpLCBQYXltZW50TWV0aG9kQXZhaWxhYmlsaXR5Lm9mZmVyZWQoSFRUUF9MSU5LLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKHBheW1lbnRNZXRob2RBdmFpbGFiaWxpdHlQcm9jZXNzb3IuY2FsY3VsYXRlQXZhaWxhYmxlUGF5bWVudE1ldGhvZHMoYW55KCksIGFueSgpKSkKICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKEF2YWlsYWJsZVBheW1lbnRNZXRob2RzLm9mKHBheW1lbnRNZXRob2RzKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -3386,10 +3386,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QgZnVuZGluZ1NvdXJjZSBhdmFpbGFiaWxpdHkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcmVwYXJlIFRlc3QtSW5wdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBleHBlY3QgZnVuZGluZ1NvdXJjZSBhdmFpbGFiaWxpdHkKICAgICAgICBmaW5hbCBTdHJpbmcgZnVuZGluZ1NvdXJjZUlkXzEgPSB1c2VkUGF5bWVudF8xLmdldFVzZWRQYXltZW50RGV0YWlscygpLmdldEZ1bmRpbmdTb3VyY2VJZCgpOwogICAgICAgIGZpbmFsIFN0cmluZyBmdW5kaW5nU291cmNlSWRfMiA9IHVzZWRQYXltZW50XzIuZ2V0VXNlZFBheW1lbnREZXRhaWxzKCkuZ2V0RnVuZGluZ1NvdXJjZUlkKCk7CiAgICAgICAgZmluYWwgU3RyaW5nIGZ1bmRpbmdTb3VyY2VJZF8zID0gdXNlZFBheW1lbnRfMy5nZXRVc2VkUGF5bWVudERldGFpbHMoKS5nZXRGdW5kaW5nU291cmNlSWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBQcmVmZXJyZWRQYXltZW50Q29udGV4dCBwYXltZW50Q29udGV4dCA9IDsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
