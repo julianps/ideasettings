@@ -163,12 +163,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538140745256">
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538142445803">
         <mark key="'" line="311" column="83" />
-        <mark key="[" line="332" column="2" />
-        <mark key="]" line="332" column="2" />
-        <mark key="." line="332" column="2" />
-        <mark key="^" line="328" column="3" />
+        <mark key="[" line="362" column="40" />
+        <mark key="]" line="362" column="40" />
+        <mark key="^" line="359" column="50" />
+        <mark key="." line="362" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourceInfo.java" timestamp="1511186129708">
         <mark key="[" line="4" column="0" />
@@ -3492,40 +3492,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">fHw0NXx8Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgIlNlcnZpY2VMYXllciIKQ29udHJvbGxlckxheWVyIC0+IFNlcnZpY2VMYXllciA6IGFkZCBDaGVja291dAoKYWN0aXZhdGUgUGF5bWVudEF2YWlsYWJpbGl0eQpTZXJ2aWNlTGF5ZXIgLT4gUGF5bWVudEF2YWlsYWJpbGl0eSA6IGdldCBBdmFpbGFiaWxpdHkgKEEpClNlcnZpY2VMYXllciA8LSBQYXltZW50QXZhaWxhYmlsaXR5IDogQQpkZWFjdGl2YXRlIFBheW1lbnRBdmFpbGFiaWxpdHkKfHw0NXx8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q0ZBIDwtICJDaGVja291dCBDb250cm9sbGVyIiA6IENoZWNrb3V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDb21tZW50Cg==</text>
+        <text encoding="base64">YWN0aXZhdGUgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IkNvbnN1bWVyIEZhY2luZyBBcHBsaWNhdGlvbiIgLT4gIlB1cmNoYXNlIFNlcnZpY2UiIDogQ3JlYXRlIFNlc3Npb24KIkNvbnN1bWVyIEZhY2luZyBBcHBsaWNhdGlvbiIgPC0gIlB1cmNoYXNlIFNlcnZpY2UiIDogU2Vzc2lvbgoiQ29uc3VtZXIgRmFjaW5nIEFwcGxpY2F0aW9uIiAtPiAiUHVyY2hhc2UgU2VydmljZSIgOiBDcmVhdGUgQ2hlY2tvdXQKIkNvbnN1bWVyIEZhY2luZyBBcHBsaWNhdGlvbiIgPC0gIlB1cmNoYXNlIFNlcnZpY2UiIDogQ2hlY2tvdXQgJiBQYXltZW50IFNlbGVjdGlvbiBMaW5rCmRlYWN0aXZhdGUgIlB1cmNoYXNlIFNlcnZpY2UiCg==</text>
+        <text encoding="base64">YWN0aXZhdGUgQ29udHJvbGxlckxheWVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWN0aXZhdGUgIlB1cmNoYXNlIFNlcnZpY2UiCg==</text>
+        <text encoding="base64">YWN0b3IgQ0ZBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q0ZBIDwtICJDaGVja291dCBDb250cm9sbGVyIiA6IENoZWNrb3V0Cg==</text>
+        <text encoding="base64">YGBgcGxhbnR1bWwK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -3534,10 +3534,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVhY3RpdmF0ZSBDb250cm9sbGVyTGF5ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
