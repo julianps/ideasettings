@@ -163,12 +163,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538122121387">
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538123435375">
         <mark key="'" line="491" column="7" />
-        <mark key="[" line="307" column="17" />
-        <mark key="]" line="307" column="85" />
-        <mark key="." line="307" column="85" />
-        <mark key="^" line="307" column="85" />
+        <mark key="[" line="305" column="47" />
+        <mark key="]" line="407" column="4" />
+        <mark key="." line="407" column="4" />
+        <mark key="^" line="305" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourceInfo.java" timestamp="1511186129708">
         <mark key="[" line="4" column="0" />
@@ -3492,13 +3492,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>configuration</text>
