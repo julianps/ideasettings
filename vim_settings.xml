@@ -163,6 +163,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538120534760">
+        <mark key="'" line="473" column="33" />
+        <mark key="[" line="397" column="39" />
+        <mark key="]" line="397" column="61" />
+        <mark key="^" line="397" column="61" />
+        <mark key="." line="397" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourceInfo.java" timestamp="1511186129708">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="4" />
@@ -468,7 +475,6 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-dynamodb/1.11.336/aws-java-sdk-dynamodb-1.11.336.jar!/com/amazonaws/services/dynamodbv2/datamodeling/DynamoDBTypeConverter.class" timestamp="1537967024923" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Contexts/CardFundingSourceRequest.java" timestamp="1517323612894">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2363,7 +2369,6 @@
         <mark key="^" line="29" column="64" />
         <mark key="." line="29" column="64" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/itest/java/de/zalando/paymentprocessing/persistence/PurchaseSessionDaoIntegrationTest.java" timestamp="1537968008267" />
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/CheckoutCardsContextService.java" timestamp="1532434972221">
         <mark key="[" line="63" column="116" />
         <mark key="]" line="63" column="112" />
@@ -3256,7 +3261,6 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/processors/MetaDataProcessor.java" timestamp="1537955725141" />
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/RetailerRequest.java" timestamp="1511275122728">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="7" column="4" />
@@ -3382,24 +3386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="43" filename="$USER_HOME$/projects/payment-gateway/app/controllers/ShowSelectionCtrlImpl.scala" />
-      <jump line="236" column="42" filename="$USER_HOME$/projects/payment-gateway/app/controllers/ShowSelectionCtrlImpl.scala" />
-      <jump line="565" column="29" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
-      <jump line="530" column="30" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
-      <jump line="542" column="21" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
-      <jump line="546" column="18" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
-      <jump line="550" column="26" filename="$USER_HOME$/projects/payment-channels/conf/definitions/channels.json" />
-      <jump line="79" column="19" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
-      <jump line="5" column="53" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
-      <jump line="63" column="56" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/paymentdatarouter/PaymentDataRouterClient.java" />
-      <jump line="123" column="24" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStore.java" />
-      <jump line="263" column="4" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="420" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="433" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="448" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="473" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="485" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
-      <jump line="497" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="509" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="522" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="535" column="89" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
@@ -3482,70 +3468,87 @@
       <jump line="15" column="17" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="47" column="5" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
       <jump line="512" column="31" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="11" column="95" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="292" column="48" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="355" column="27" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="358" column="19" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="361" column="15" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="363" column="13" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="365" column="25" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="366" column="45" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="368" column="12" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="374" column="8" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="375" column="8" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="377" column="47" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="383" column="44" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="387" column="22" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="393" column="54" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="442" column="32" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
+      <jump line="467" column="33" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Integration</text>
+        <text>selection</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBwcmVTZWxlY3Q7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGEgY3VzdG9tZXIuIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3BlbnRyYWNpbmcubGlnaHRzdGVwLmFjY2Vzc190b2tlbj1iMzRhN2UyNTFkMzdlODg4ZTBkYWY0NzJhYzUzNjJiOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3BlbnRyYWNpbmcubGlnaHRzdGVwLmFjY2Vzc190b2tlbj1iMzRhN2UyNTFkMzdlODg4ZTBkYWY0NzJhYzUzNjJiOAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgTW91bnRlYmFuayBzZXJ2aWNlIG1vY2tzCmNvbXBvbmVudHMuY29uc3VtZXJfc3RvcmVfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAxCmNvbXBvbmVudHMucGF5bWVudF9hdmFpbGFiaWxpdHlfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgTW91bnRlYmFuayBzZXJ2aWNlIG1vY2tzCmNvbXBvbmVudHMuY29uc3VtZXJfc3RvcmVfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAxCmNvbXBvbmVudHMucGF5bWVudF9hdmFpbGFiaWxpdHlfc2VydmljZS5ob3N0ID0gaHR0cDovL2xvY2FsaG9zdDo5MDAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBwcmVzZWxlY3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBwcmVzZWxlY3Q7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQovLyAgICBVUkkgdW5jb252ZXJ0KFN0cmluZyBzKSB7Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgfQogICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIEBPdmVycmlkZQovLyAgICBVUkkgdW5jb252ZXJ0KFN0cmluZyBzKSB7Ci8vICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Integration</last-search>
+      <last-search>selection</last-search>
       <last-offset />
-      <last-pattern>Integration</last-pattern>
+      <last-pattern>selection</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>JUn</entry>
         <entry>jun</entry>
         <entry>ju</entry>
         <entry>test</entry>
@@ -3565,6 +3568,7 @@
         <entry>depen</entry>
         <entry>-check</entry>
         <entry>Integration</entry>
+        <entry>selection</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
