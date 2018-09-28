@@ -163,12 +163,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538123435375">
-        <mark key="'" line="491" column="7" />
-        <mark key="[" line="305" column="47" />
-        <mark key="]" line="407" column="4" />
-        <mark key="." line="407" column="4" />
-        <mark key="^" line="305" column="72" />
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1538125385315">
+        <mark key="'" line="311" column="83" />
+        <mark key="[" line="315" column="98" />
+        <mark key="]" line="315" column="67" />
+        <mark key="." line="315" column="67" />
+        <mark key="^" line="315" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourceInfo.java" timestamp="1511186129708">
         <mark key="[" line="4" column="0" />
@@ -3389,7 +3389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="792" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="816" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="829" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="842" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
@@ -3489,22 +3488,23 @@
       <jump line="608" column="32" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="656" column="28" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="826" column="19" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="311" column="83" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>configuration</text>
+        <text encoding="base64">XDx1c2VkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBwcmVTZWxlY3Q7Cg==</text>
+      <register name="0" type="4">
+        <text>Payment method selection</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3516,7 +3516,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">My4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -3528,13 +3528,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhlcmUgYXJlIGRpZmZlcmVudCBzY2VuYXJpb3MgaW4gd2hpY2ggdGhlIHByZWZlcmVuY2Ugb2YgYSBjdXN0b21lciBpcyBpbXBvcnRhbnQgdG8ga25vdy4K</text>
+        <text encoding="base64">My4gCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGEgY3VzdG9tZXIuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3544,15 +3544,14 @@
       </register>
     </registers>
     <search>
-      <last-search>configuration</last-search>
+      <last-search encoding="base64">XDx1c2VkXD4=</last-search>
       <last-offset />
-      <last-pattern>configuration</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>boot-starter-test</entry>
         <entry>preferred</entry>
         <entry>imps</entry>
         <entry>import</entry>
@@ -3572,6 +3571,7 @@
         <entry>applicationid</entry>
         <entry>application</entry>
         <entry>configuration</entry>
+        <entry encoding="base64">XDx1c2VkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
