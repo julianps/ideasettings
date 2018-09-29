@@ -302,6 +302,12 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/vavr-playground/pom.xml" timestamp="1538215076699">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/ConsumerResponse.java" timestamp="1511186264939">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="19" />
@@ -1467,10 +1473,10 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1537976271103">
-        <mark key="'" line="512" column="31" />
-        <mark key="[" line="519" column="27" />
-        <mark key="]" line="519" column="29" />
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1538215056562">
+        <mark key="'" line="288" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="41" />
         <mark key="^" line="519" column="29" />
         <mark key="." line="519" column="29" />
       </file>
@@ -3410,7 +3416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="829" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="842" column="85" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0-sources.jar!/com/google/common/base/Preconditions.java" />
       <jump line="113" column="59" filename="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" />
       <jump line="115" column="15" filename="$MAVEN_REPOSITORY$/org/modelmapper/modelmapper/1.1.2/modelmapper-1.1.2-sources.jar!/org/modelmapper/internal/MappingEngineImpl.java" />
@@ -3510,6 +3515,7 @@
       <jump line="826" column="19" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="311" column="83" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="39" column="64" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/VavrPlaygroundTest.java" />
+      <jump line="288" column="0" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3522,10 +3528,10 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VkXD4=</text>
+        <text>vavr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
+        <text encoding="base64">CQk8dmF2ci52ZXJzaW9uPjAuOS4wPC92YXZyLnZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3534,19 +3540,19 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZhdnJOYW1lcykuY29udGFpbnNFeGFjdGx5KDEsMiwzKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHZhdnJOYW1lcykuY29udGFpbnNFeGFjdGx5KDEsMiwzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
@@ -3923,25 +3929,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgIEBSZXBlYXRlZFRlc3QoMTAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VkXD4=</last-search>
+      <last-search>vavr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VkXD4=</last-pattern>
+      <last-pattern>vavr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preferred</entry>
         <entry>imps</entry>
         <entry>import</entry>
         <entry>contains</entry>
@@ -3961,6 +3966,7 @@
         <entry>application</entry>
         <entry>configuration</entry>
         <entry encoding="base64">XDx1c2VkXD4=</entry>
+        <entry>vavr</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
