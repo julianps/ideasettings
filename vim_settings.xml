@@ -1780,11 +1780,11 @@
         <mark key="." line="97" column="69" />
         <mark key="^" line="97" column="69" />
       </file>
-      <file name="$USER_HOME$/projects/vavr-playground/src/test/java/com/github/julianps/vavr/playground/controls/OptionTest.java" timestamp="1538318923899">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="23" column="54" />
+      <file name="$USER_HOME$/projects/vavr-playground/src/test/java/com/github/julianps/vavr/playground/controls/OptionTest.java" timestamp="1538320444352">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/model/ConsumerDTO.java" timestamp="1510649815028">
         <mark key="[" line="25" column="0" />
@@ -3565,43 +3565,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>The correct way to deal with occurrences of null is to use flatMap</text>
       </register>
       <register name="/" type="4">
         <text>vavr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBbIHtMaXNhLCBNaWxsYX0sIHtKdWxpYW4sIE1pbGxhfSBdCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUaGUgY29ycmVjdCB3YXkgdG8gZGVhbCB3aXRoIG9jY3VycmVuY2VzIG9mIG51bGwgaXMgdG8gdXNlIGZsYXRNYXAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcyBpcyBjbGVhcmx5IG5vdCB0aGUgY29ycmVjdCBhcHByb2FjaAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOdWxsUG9pbnRlckV4Y2VwdGlvbiBlKSB7Cg==</text>
+      <register name="5" type="4">
+        <text>Option forces you to pay attention to possible occurrences of null and deal with
+        // them accordingly instead of unknowingly accepting them</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXNzZXJ0LmZhaWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBPcHRpb25hbDxTdHJpbmc+IHMxID0gOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGVuKG1heWJlRm9vLmdldCgpKS5pc0VxdWFsVG8oImZvbyIpOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">bWF5YmVGb28ubWFwKHMgLT4gKFN0cmluZykgbnVsbCkKICAgICAgICAgICAgICAgIC5tYXAocyAtPiBzLnRvVXBwZXJDYXNlKCkgKyAiYmFyIik=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3975,10 +3976,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb248U3RyaW5nPiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
