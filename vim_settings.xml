@@ -3069,11 +3069,11 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/vavr-playground/src/test/java/com/github/julianps/vavr/playground/collections/CollectionTest.java" timestamp="1538298187426">
-        <mark key="[" line="84" column="105" />
-        <mark key="]" line="87" column="83" />
-        <mark key="^" line="87" column="83" />
-        <mark key="." line="87" column="83" />
+      <file name="$USER_HOME$/projects/vavr-playground/src/test/java/com/github/julianps/vavr/playground/collections/CollectionTest.java" timestamp="1538300381832">
+        <mark key="[" line="107" column="75" />
+        <mark key="]" line="107" column="75" />
+        <mark key="^" line="107" column="75" />
+        <mark key="." line="107" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/integration/SwaggerExportTest.java" timestamp="1511464665190">
         <mark key="[" line="46" column="20" />
@@ -3546,44 +3546,44 @@
       <jump line="83" column="0" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/LinearSeq.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>prepend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIERFViBOT1RFOiBjbGFzcyBkZWNsYXJlZCBmaW5hbCBiZWNhdXNlIG9mIHNlcmlhbGl6YXRpb24gcHJveHkgcGF0dGVybiAoc2VlIEVmZmVjdGl2ZSBKYXZhLCAybmQgZWQuLCBwLiAzMTUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFZhdnJNZW1iZXIuZ2V0QmlydGhkYXkoKS5taW51c0RheXMoMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdEphdmFNZW1iZXIuZ2V0Rmlyc3ROYW1lKCkucmVwbGFjZSgnYScsICdvJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFZhdnJNZW1iZXIuZ2V0Rmlyc3ROYW1lKCkucmVwbGFjZSgnYScsICdvJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUYWcoKQo=</text>
+        <text encoding="base64">ICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZhbWlseU1lbWJlci5vZigiTGlzYSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZhbWlseU1lbWJlci5vZigiTWlsbGEiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZhbWlseU1lbWJlci5vZigiSnVsaWFuIiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0ucmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3957,10 +3957,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZhbWlseU1lbWJlci5vZigiSnVsaWFuIiwgTG9jYWxEYXRlLm9mKDE5ODMsNSwyKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZhbWlseU1lbWJlci5vZigiTGlzYSIsTG9jYWxEYXRlLm9mKDE5ODMsNSwyKSkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
