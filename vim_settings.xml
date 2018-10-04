@@ -601,11 +601,11 @@
         <mark key="." line="18" column="37" />
         <mark key="^" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/DbPayOrder.java" timestamp="1538642311864">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="39" column="28" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/DbPayOrder.java" timestamp="1538644226728">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/ConsumerStoreConverter.java" timestamp="1536669780925">
         <mark key="[" line="70" column="0" />
@@ -1119,9 +1119,9 @@
         <mark key="." line="27" column="7" />
         <mark key="^" line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbRetailer.java" timestamp="1537966165101">
-        <mark key="[" line="15" column="5" />
-        <mark key="]" line="15" column="38" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbRetailer.java" timestamp="1538644148852">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="19" />
         <mark key="." line="15" column="38" />
         <mark key="^" line="15" column="38" />
       </file>
@@ -1166,6 +1166,10 @@
         <mark key="]" line="4" column="53" />
         <mark key="^" line="4" column="53" />
         <mark key="." line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbConsumer.java" timestamp="1538644201300">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/docs/api/test.yaml" timestamp="1516026640286">
         <mark key="[" line="11" column="0" />
@@ -3676,7 +3680,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5kaW5nU291cmNlSWRzID0gbmV3IEhhc2hTZXQ8PigxKTsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZXMgYW4gaW5zdGFuY2UgbGlua2VkIHRvIGEgc2Vzc2lvbgogICAgICoKICAgICAqIEBwYXJhbSBwdXJjaGFzZVNlc3Npb24gdG8gY3JlYXRlIHRoZSBpbnN0YW5jZSBmb3IKICAgICAqLwogICAgcHVibGljIERiUGF5T3JkZXIoZmluYWwgUHVyY2hhc2VTZXNzaW9uIHB1cmNoYXNlU2Vzc2lvbikgewogICAgICAgIHNlc3Npb25JZCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRJZCgpOwogICAgICAgIHR0bCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRDcmVhdGVkQXQoKS5wbHVzKERiUHVyY2hhc2VTZXNzaW9uLlNFU1NJT05fVFRMKS50b0Vwb2NoU2Vjb25kKCk7CiAgICB9Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3688,31 +3692,31 @@
         <text>uuid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlcyBhbiBpbnN0YW5jZSBmb3IgYSBzZXNzaW9uCiAgICAgKiBAcGFyYW0gc2Vzc2lvbiBzZXNzaW9uIHRvIGNyZWF0ZSB0aGUgaW5zdGFuY2UgZm9yCiAgICAgKi8KICAgIHB1YmxpYyBEYlNlc3Npb25PbmVUaW1lVXNlRnVuZGluZ1NvdXJjZXMoUHVyY2hhc2VTZXNzaW9uIHNlc3Npb24pIHsKICAgICAgICBzZXNzaW9uSWQgPSBzZXNzaW9uLmdldElkKCk7CiAgICAgICAgdHRsID0gc2Vzc2lvbi5nZXRDcmVhdGVkQXQoKS5wbHVzKERiUHVyY2hhc2VTZXNzaW9uLlNFU1NJT05fVFRMKS50b0Vwb2NoU2Vjb25kKCk7CiAgICAgICAgZnVuZGluZ1NvdXJjZUlkcyA9IG5ldyBIYXNoU2V0PD4oMSk7CiAgICB9Cg==</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IGZhbHNlKQpAVG9TdHJpbmcoY2FsbFN1cGVyID0gdHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmdW5kaW5nU291cmNlSWRzID0gbmV3IEhhc2hTZXQ8PigxKTsK</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIENyZWF0ZXMgYW4gaW5zdGFuY2UgbGlua2VkIHRvIGEgc2Vzc2lvbgogICAgICoKICAgICAqIEBwYXJhbSBwdXJjaGFzZVNlc3Npb24gdG8gY3JlYXRlIHRoZSBpbnN0YW5jZSBmb3IKICAgICAqLwogICAgcHVibGljIERiUGF5T3JkZXIoZmluYWwgUHVyY2hhc2VTZXNzaW9uIHB1cmNoYXNlU2Vzc2lvbikgewogICAgICAgIHNlc3Npb25JZCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRJZCgpOwogICAgICAgIHR0bCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRDcmVhdGVkQXQoKS5wbHVzKERiUHVyY2hhc2VTZXNzaW9uLlNFU1NJT05fVFRMKS50b0Vwb2NoU2Vjb25kKCk7CiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVVVJRCBzZXNzaW9uSWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogVE9ETyBEb2N1bWVudGF0aW9uCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbG9uZyB0dGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFRBQkxFID0gIlBheU9yZGVyIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVE9ETyBEb2N1bWVudGF0aW9uCg==</text>
+        <text encoding="base64">QFRvU3RyaW5nKGNhbGxTdXBlciA9IHRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4086,10 +4090,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKGNhbGxTdXBlciA9IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QER5bmFtb0RCVGFibGUodGFibGVOYW1lID0gVEFCTEUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
