@@ -383,6 +383,12 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/src/common/oauth.js" timestamp="1538659711980">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/model/business/DbCheckout.java" timestamp="1512220440426">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -728,11 +734,10 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/pay-order/post.test.js" timestamp="1538471680186">
-        <mark key="[" line="31" column="100" />
-        <mark key="]" line="31" column="96" />
-        <mark key="^" line="31" column="96" />
-        <mark key="." line="31" column="96" />
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/pay-order/post.test.js" timestamp="1538660357781">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/util/PaymentSelectionConverter.java" timestamp="1510924098855">
         <mark key="[" line="16" column="72" />
@@ -918,11 +923,11 @@
         <mark key="^" line="42" column="57" />
         <mark key="." line="42" column="57" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-local.properties" timestamp="1538657118394">
-        <mark key="[" line="3" column="45" />
-        <mark key="]" line="3" column="45" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-local.properties" timestamp="1538660640531">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
         <mark key="^" line="3" column="62" />
-        <mark key="." line="3" column="45" />
+        <mark key="." line="7" column="32" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/FundingSourceAvailabilityProcessorTest.java" timestamp="1530278874859">
         <mark key="[" line="6" column="52" />
@@ -1267,11 +1272,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/api_tests/src/session.js" timestamp="1538470119896">
-        <mark key="[" line="46" column="55" />
-        <mark key="]" line="46" column="67" />
-        <mark key="^" line="58" column="1" />
-        <mark key="." line="58" column="1" />
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/src/session.js" timestamp="1538660237358">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="51" column="41" />
+        <mark key="^" line="51" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/utest/config/security/jwt/JwtAuthenticationProviderTest.java" timestamp="1507895408350">
         <mark key="[" line="16" column="0" />
@@ -3500,7 +3505,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1538219490100">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1538660446642">
         <mark key="[" line="47" column="90" />
         <mark key="]" line="47" column="91" />
         <mark key="^" line="47" column="91" />
@@ -3683,22 +3688,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>f</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>uuid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEYlB1cmNoYXNlU2Vzc2lvbiBzYXZlZFNlc3Npb24gPSBzYXZlRGJQdXJjaGFzZVNlc3Npb24oc2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZyBmcm9tICcuL2NvbW1vbi9sb2cnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2Vzc2lvblNlcnZpY2Ugc2Vzc2lvblNlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3707,16 +3712,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25JZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInNlc3Npb246ICIgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU2Vzc2lvblNlcnZpY2Ugc2Vzc2lvblNlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -4093,10 +4098,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
