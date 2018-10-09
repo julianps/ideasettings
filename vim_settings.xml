@@ -1559,6 +1559,10 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1539076555139">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="314" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/api_tests/src/checkout.js" timestamp="1538725923561">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="39" />
@@ -3628,7 +3632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="0" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="441" column="25" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="454" column="13" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="461" column="41" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
@@ -3728,6 +3731,7 @@
       <jump line="9" column="59" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
       <jump line="181" column="16" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
       <jump line="183" column="15" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3740,7 +3744,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>Meta</text>
+        <text>surefi</text>
       </register>
       <register name="0" type="4">
         <text>- The id of the {@link PurchaseSession}</text>
@@ -4151,15 +4155,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Meta</last-search>
+      <last-search>surefi</last-search>
       <last-offset />
-      <last-pattern>Meta</last-pattern>
+      <last-pattern>surefi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2nd</entry>
         <entry>Java</entry>
         <entry>effective</entry>
         <entry>Effec</entry>
@@ -4179,6 +4182,7 @@
         <entry>OneTimeUseFundingSourceDao</entry>
         <entry>uuid</entry>
         <entry>Meta</entry>
+        <entry>surefi</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
