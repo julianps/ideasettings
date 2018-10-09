@@ -21,6 +21,16 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="CardFundingSourceExternal" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.zalando.paymentprocessing.services.models.business.fundingsources.CardFundingSourceExternal" />
+        <Renderer ID="ExpressionChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="de.zalando.paymentprocessing.services.models.business.fundingsources.CardFundingSourceExternal" />
+          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
+          <option name="CHILDREN_EXPRESSION" value="getBaseFundingSource()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="CardFundingSourceInternal" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="de.zalando.paymentprocessing.services.models.business.fundingsources.CardFundingSourceInternal" />
