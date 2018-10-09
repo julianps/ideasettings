@@ -1559,9 +1559,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1539076555139">
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1539078462840">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="314" column="31" />
+        <mark key="[" line="315" column="0" />
+        <mark key="]" line="315" column="0" />
+        <mark key="." line="315" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/api_tests/src/checkout.js" timestamp="1538725923561">
         <mark key="[" line="29" column="39" />
@@ -3735,7 +3737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">CQkJCQk8L2luY2x1ZGVzPgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3750,28 +3752,28 @@
         <text>- The id of the {@link PurchaseSession}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">CQkJCQk8L2luY2x1ZGVzPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">CQkJCQkJPGluY2x1ZGU+KiovKlRlc3QuamF2YTwvaW5jbHVkZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">CQkJCQk8aW5jbHVkZXM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheW1lbnRNZXRob2RzLnRhaWwoKS5mb3JFYWNoKGVudHJ5IC0+IGVudHJ5LmdldFBheW1lbnRNZXRob2QoKS5zZXRQcmVzZWxlY3QoZmFsc2UpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheW1lbnRNZXRob2RzLnRhaWwoKS5mb3JFYWNoKGVudHJ5IC0+IGVudHJ5LmdldFBheW1lbnRNZXRob2QoKS5zZXRQcmVzZWxlY3QoZmFsc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4145,10 +4147,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBheW1lbnRNZXRob2RzLm5vbkVtcHR5KCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheW1lbnRNZXRob2RzLnRhaWwoKS5mb3JFYWNoKGVudHJ5IC0+IGVudHJ5LmdldFBheW1lbnRNZXRob2QoKS5zZXRQcmVzZWxlY3QoZmFsc2UpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
