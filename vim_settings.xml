@@ -32,9 +32,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1539089086381">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/config/security/jwt/jwk/JwtAuthenticationProviderTest.java" timestamp="1507896189787">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="16" column="5" />
@@ -164,6 +161,10 @@
         <mark key="]" line="28" column="30" />
         <mark key="^" line="28" column="30" />
         <mark key="." line="28" column="30" />
+      </file>
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" timestamp="1539170940785">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourceInfo.java" timestamp="1511186129708">
         <mark key="[" line="4" column="0" />
@@ -1562,12 +1563,6 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1539088277264">
-        <mark key="'" line="313" column="30" />
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="315" column="0" />
-        <mark key="." line="315" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/purchase-service/api_tests/src/checkout.js" timestamp="1538725923561">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="39" />
@@ -2833,6 +2828,12 @@
         <mark key="." line="182" column="7" />
         <mark key="^" line="182" column="7" />
       </file>
+      <file name="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/coding-guidelines.md" timestamp="1539171281523">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="83" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="32" />
@@ -3643,6 +3644,12 @@
         <mark key="." line="14" column="81" />
         <mark key="^" line="14" column="81" />
       </file>
+      <file name="$USER_HOME$/documentation/payment-documentation/mkdocs.yml" timestamp="1539171165928">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="12" column="61" />
+        <mark key="^" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/model/business/SelectedPayment.java" timestamp="1512382390068">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -3772,7 +3779,7 @@
         <text>identi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBPcHRpb248U3RyaW5nPiBmc0lkQSA9IE9wdGlvbi5vZihhLmdldFVzZWRQYXltZW50RGV0YWlscygpLmdldEZ1bmRpbmdTb3VyY2VJZCgpKTsK</text>
+        <text encoding="base64">IyMgUHVycG9zZSBvZiB0aGUgX1B1cmNoYXNlIFNlcnZpY2VfCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3784,19 +3791,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgQ29kaW5nIEd1aWRlbGluZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBtb3VudGFiYW5rIHVybHMKY29tcG9uZW50cy5jb25zdW1lcl9zdG9yZV9zZXJ2aWNlLmhvc3QgPSBodHRwOi8vbG9jYWxob3N0OjkwMDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXZhaWxhYmxlRnVuZGluZ1NvdXJjZXNJbmZvIGZ1bmRpbmdTb3VyY2VzOwo=</text>
+        <text encoding="base64">IyBtb3VudGFiYW5rIHVybHMKY29tcG9uZW50cy5jb25zdW1lcl9zdG9yZV9zZXJ2aWNlLmhvc3QgPSBodHRwOi8vbG9jYWxob3N0OjkwMDEK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4170,11 +4177,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>List.of(cc(), ccPayLater(), paypal(), prepayment(), invoice(),
-            free())</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
