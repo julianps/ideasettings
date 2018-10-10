@@ -932,6 +932,12 @@
         <mark key="^" line="42" column="57" />
         <mark key="." line="42" column="57" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-local.properties" timestamp="1539169372038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/FundingSourceAvailabilityProcessorTest.java" timestamp="1530278874859">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="71" />
@@ -2869,6 +2875,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-api-test.properties" timestamp="1539169368398">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="62" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/model/business/DbLinkWithExternalUxHooks.java" timestamp="1512380822415">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -3749,7 +3760,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3764,29 +3775,28 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBPcHRpb248U3RyaW5nPiBmc0lkQSA9IE9wdGlvbi5vZihhLmdldFVzZWRQYXltZW50RGV0YWlscygpLmdldEZ1bmRpbmdTb3VyY2VJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXZhaWxhYmxlRnVuZGluZ1NvdXJjZXNJbmZvIGZ1bmRpbmdTb3VyY2VzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtb3VudGFiYW5rIHVybHMKY29tcG9uZW50cy5jb25zdW1lcl9zdG9yZV9zZXJ2aWNlLmhvc3QgPSBodHRwOi8vbG9jYWxob3N0OjkwMDEK</text>
       </register>
-      <register name="5" type="4">
-        <text>List.of(cc(), ccPayLater(), paypal(), prepayment(), invoice(),
-            free())</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8ucGF5bWVudHByb2Nlc3Npbmcuc2VydmljZXMucGF5bWVudGRhdGFyb3V0ZXIuUGF5bWVudERhdGFSb3V0ZXJDbGllbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1hcDxTdHJpbmcsIFBheW1lbnRNZXRob2Q+IGlkVG9QYXltZW50TWV0aG9kID0gOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQXZhaWxhYmxlRnVuZGluZ1NvdXJjZXNJbmZvIGZ1bmRpbmdTb3VyY2VzOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4160,10 +4170,11 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgTGlzdDxQYXltZW50TWV0aG9kPiBpdGVtcyA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRUb1BheW1lbnRNZXRob2QuZ2V0KHBheW1lbnRNZXRob2RJZCk7Cg==</text>
+      <register name="9" type="4">
+        <text>List.of(cc(), ccPayLater(), paypal(), prepayment(), invoice(),
+            free())</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
