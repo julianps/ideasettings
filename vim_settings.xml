@@ -2526,11 +2526,11 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" timestamp="1538727580862">
-        <mark key="[" line="1545" column="0" />
-        <mark key="]" line="1545" column="0" />
-        <mark key="." line="1545" column="0" />
-        <mark key="^" line="241" column="1" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" timestamp="1539603001758">
+        <mark key="[" line="260" column="39" />
+        <mark key="]" line="260" column="46" />
+        <mark key="." line="260" column="46" />
+        <mark key="^" line="260" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/services/CheckoutServiceTest.java" timestamp="1510582658058">
         <mark key="[" line="48" column="83" />
