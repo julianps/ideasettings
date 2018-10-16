@@ -1601,6 +1601,12 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1539684521160">
+        <mark key="[" line="296" column="21" />
+        <mark key="]" line="294" column="22" />
+        <mark key="^" line="294" column="22" />
+        <mark key="." line="294" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/purchase-service/api_tests/src/checkout.js" timestamp="1538725923561">
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="39" />
@@ -3872,14 +3878,14 @@
       <jump line="3" column="32" filename="$USER_HOME$/projects/supervisor-client/src/main/java/de/zalando/supervisor/client/model/HttpMethod.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXNwb25zZUJvZHk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>payment-selection</text>
