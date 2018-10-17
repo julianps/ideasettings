@@ -54,11 +54,11 @@
         <mark key="^" line="67" column="95" />
         <mark key="." line="67" column="95" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/supervisor/Supervisor.java" timestamp="1539760714580">
-        <mark key="[" line="24" column="23" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="38" />
-        <mark key="." line="24" column="38" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/supervisor/Supervisor.java" timestamp="1539763081493">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/util/converters/PaymentSelectionConverterTest.java" timestamp="1528896072010">
         <mark key="[" line="12" column="41" />
@@ -635,6 +635,12 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/util/converters/SupervisorConverter.java" timestamp="1539764898381">
+        <mark key="[" line="57" column="68" />
+        <mark key="]" line="57" column="76" />
+        <mark key="^" line="57" column="76" />
+        <mark key="." line="57" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/model/business/PickupStation.java" timestamp="1511261163296">
         <mark key="[" line="5" column="28" />
@@ -1443,6 +1449,13 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="55" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/util/converters/SupervisorConverterTest.java" timestamp="1539763585000">
+        <mark key="[" line="38" column="30" />
+        <mark key="k" line="38" column="92" />
+        <mark key="]" line="38" column="57" />
+        <mark key="." line="38" column="57" />
+        <mark key="^" line="38" column="57" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/PaymentSelection.java" timestamp="1536670189404">
         <mark key="[" line="18" column="51" />
@@ -2382,6 +2395,12 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/supervisor/SUVPaymentStatus.java" timestamp="1539763200004">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/jwt-token-service/src/main/scala/http/routes/TokensRoute.scala" timestamp="1508417694098">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="15" />
@@ -2903,7 +2922,7 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1539699189429">
+      <file name="/fragment.java" timestamp="1539763082605">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -3882,19 +3901,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>HttpClient</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFByZWNvbmRpdGlvbnMuY2hlY2tOb3ROdWxsKHBheW1lbnQuZ2V0QmFsYW5jZURldGFpbHMoKS5nZXRBbW91bnREdWUoKSwgIkFtb3VudER1ZSBjYW5ub3QgYmUgbnVsbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCaWdEZWNpbWFsIGFtb3VudER1ZU51bWJlciA9IFRyeS5vZigoKSAtPiBuZXcgQmlnRGVjaW1hbChhbW91bnREdWUuZ2V0TnVtYmVyKCkuZG91YmxlVmFsdWVFeGFjdCgpKSkKICAgICAgICAgICAgICAgIC5nZXRPckVsc2VUaHJvdygoKSAtPiBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJDYW5ub3QgZXh0cmFjdCBhbW91bnREdWUgZnJvbSBTdXBlcnZpc29yIHJlc3BvbnNlIikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3906,19 +3925,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5zZXRTdGF0ZShwYXltZW50Ll8yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5zZXRPcmRlcihwYXltZW50Ll8xKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBvcmcuamF2YW1vbmV5Lm1vbmV0YS5Nb25leSBmcm9tID0gb3JnLmphdmFtb25leS5tb25ldGEuTW9uZXkuZnJvbShhbW91bnREdWUpOwogICAgICAgIGZyb20uZ2V0TnVtYmVyKCkuZG91YmxlVmFsdWVFeGFjdCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb25leS5vZih0b3RhbEFtb3VudE51bWJlciwgdG90YWxBbW91bnQuZ2V0Q3VycmVuY3koKS5nZXRDdXJyZW5jeUNvZGUoKSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5zZXRTdGF0ZShwYXltZW50Ll8yKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCaWdEZWNpbWFsIHRvdGFsQW1vdW50TnVtYmVyID0gbmV3IEJpZ0RlY2ltYWwoYW1vdW50RHVlLmdldE51bWJlcigpLmRvdWJsZVZhbHVlRXhhY3QoKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -4292,10 +4311,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlPcmRlci5zZXRPcmRlcihwYXltZW50Ll8xKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCaWdEZWNpbWFsIGR1bm5pbmdGZWVEdWVOdW1iZXIgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBCaWdEZWNpbWFsIGR1bm5pbmdGZWVEdWVOdW1iZXIgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
