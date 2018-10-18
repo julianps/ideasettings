@@ -700,7 +700,7 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/TokensConfiguration.java" timestamp="1539785539577">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/TokensConfiguration.java" timestamp="1539787402405">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="42" column="30" />
         <mark key="^" line="58" column="121" />
