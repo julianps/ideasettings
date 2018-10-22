@@ -2547,6 +2547,9 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" timestamp="1540208797315">
+        <mark key="'" line="1375" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/services/CheckoutServiceTest.java" timestamp="1510582658058">
         <mark key="[" line="48" column="83" />
         <mark key="]" line="48" column="82" />
@@ -3711,65 +3714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="37" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/Seq.java" />
-      <jump line="179" column="28" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/Seq.java" />
-      <jump line="200" column="28" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/Seq.java" />
-      <jump line="140" column="23" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="204" column="19" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="213" column="49" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="745" column="27" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="757" column="34" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="1100" column="30" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="1104" column="25" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="1176" column="19" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="1192" column="19" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="1750" column="16" filename="$MAVEN_REPOSITORY$/io/vavr/vavr/0.9.2/vavr-0.9.2-sources.jar!/io/vavr/collection/List.java" />
-      <jump line="47" column="13" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
-      <jump line="7" column="48" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
-      <jump line="8" column="48" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
-      <jump line="6" column="48" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
-      <jump line="14" column="30" filename="$USER_HOME$/projects/modelmapper-vavr-module-playground/src/main/java/com/github/julianps/modelmapper/modelmappervavrmoduleplayground/Application.java" />
-      <jump line="305" column="100" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="492" column="15" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="695" column="132" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="477" column="30" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="111" column="50" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="311" column="46" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="370" column="26" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="485" column="15" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="497" column="70" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="499" column="71" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="501" column="16" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="506" column="30" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="507" column="8" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="556" column="18" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="576" column="18" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="589" column="66" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="596" column="47" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="597" column="66" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="598" column="16" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="600" column="45" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="603" column="45" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="605" column="13" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="611" column="0" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="626" column="13" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="630" column="9" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="631" column="67" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="634" column="38" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="636" column="10" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="645" column="55" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="647" column="43" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="650" column="63" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="654" column="50" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="656" column="45" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="661" column="41" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="662" column="64" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="667" column="14" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="705" column="52" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="707" column="62" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="715" column="3" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="728" column="190" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
-      <jump line="731" column="389" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="741" column="89" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="883" column="3" filename="$USER_HOME$/documentation/payment-documentation/docs/purchase-service/user-guide.md" />
       <jump line="141" column="18" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
@@ -3811,6 +3755,65 @@
       <jump line="27" column="48" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/supervisor/SupervisorConfiguration.java" />
       <jump line="57" column="13" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" />
       <jump line="256" column="55" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="32" column="18" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="275" column="88" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="343" column="16" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="344" column="57" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="345" column="85" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="369" column="21" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="371" column="86" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="376" column="20" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="378" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="392" column="21" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="397" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="438" column="71" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="490" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="535" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="635" column="31" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="698" column="67" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="734" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="763" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="772" column="28" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="773" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="797" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="803" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="817" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="838" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="850" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="856" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="865" column="34" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="866" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="874" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="906" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="928" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="936" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="960" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="971" column="22" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="972" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="980" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="997" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1017" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1036" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1043" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1045" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1056" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1076" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1089" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1121" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1141" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1163" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1209" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1225" column="59" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1231" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1262" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1291" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1294" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1324" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1336" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1352" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1356" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
+      <jump line="1375" column="17" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
