@@ -489,6 +489,13 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/DefaultPreferredPaymentProcessor.java" timestamp="1540556758090">
+        <mark key="'" line="165" column="85" />
+        <mark key="[" line="119" column="62" />
+        <mark key="]" line="119" column="60" />
+        <mark key="." line="119" column="60" />
+        <mark key="^" line="119" column="60" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Contexts/CardFundingSourceRequest.java" timestamp="1517323612894">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2942,7 +2949,7 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1540389391951">
+      <file name="/fragment.java" timestamp="1540556721894">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="40" />
         <mark key="^" line="0" column="40" />
@@ -3829,7 +3836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="438" column="71" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="490" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="535" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="635" column="31" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
@@ -3929,10 +3935,11 @@
       <jump line="305" column="42" filename="$USER_HOME$/projects/pay-order-app/pom.xml" />
       <jump line="189" column="35" filename="$USER_HOME$/projects/pay-order-app/pom.xml" />
       <jump line="54" column="32" filename="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/services/util/MeasureCallRateUtil.kt" />
+      <jump line="164" column="85" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/DefaultPreferredPaymentProcessor.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZUNoZWNrb3V0KHB1cmNoYXNlU2Vzc2lvbik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -3941,7 +3948,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>logg</text>
+        <text>disti</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWxpZGF0ZUNoZWNrb3V0KHB1cmNoYXNlU2Vzc2lvbik7Cg==</text>
@@ -3953,46 +3960,45 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2YWxpZGF0ZUNoZWNrb3V0KGZpbmFsIFB1cmNoYXNlU2Vzc2lvbiBwdXJjaGFzZVNlc3Npb24pIHsKICAgICAgICBpZihwdXJjaGFzZVNlc3Npb24uZ2V0Q2hlY2tvdXQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigiQ2hlY2tvdXQgbWlzc2luZyIsIHB1cmNoYXNlU2Vzc2lvbi5nZXRJZCgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDaGVja291dCBjaGVja291dCA9IAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Y2hlY2tvdXQuZ2V0U3RhdGUoKSBDaGVja291dFN0YXRlLgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAoZnMgLT4gZnMuZ2V0RXh0ZXJuYWwoKS5nZXRCYXNlRnVuZGluZ1NvdXJjZSgpLmdldElkKCkpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VkUGF5bWVudEluZm8uZ2V0UGF5bWVudE1ldGhvZCgpLmdldElkKCksIHVzZWRQYXltZW50SW5mby5nZXRPcHRGdW5kaW5nU291cmNlKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDaGVja291dCBjaGVja291dCA9IHB1cmNoYXNlU2Vzc2lvbi5nZXRDaGVja291dCgpOwogICAgICAgIGlmKGNoZWNrb3V0ID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEZvdW5kRXhjZXB0aW9uKCJDaGVja291dCBtaXNzaW5nICIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VkUGF5bWVudEluZm8gLT4gbmV3IFR1cGxlMjxTdHJpbmcsIE9wdGlvbjxTdHJpbmc+PigK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoSU5DT01QTEVURSwgcmVzdWx0LmdldCgpLmdldFN0YXRlKCkpOwogICAgICAgIGFzc2VydEVxdWFscyhDVlZfTk9UX1BST1ZJREVELCByZXN1bHQuZ2V0KCkuZ2V0U3RhdGVJbmZvSWQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKExpc3Qub2YoTWlzc2luZ3MuQ1ZWKSwgcmVzdWx0LmdldCgpLmdldE1pc3NpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB2YWxpZGF0ZUNoZWNrb3V0KGZpbmFsIFB1cmNoYXNlU2Vzc2lvbiBwdXJjaGFzZVNlc3Npb24pIHsKICAgICAgICBpZihwdXJjaGFzZVNlc3Npb24uZ2V0Q2hlY2tvdXQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigiQ2hlY2tvdXQgbWlzc2luZyIsIHB1cmNoYXNlU2Vzc2lvbi5nZXRJZCgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldFNlc3Npb24oKS5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDaGVja291dCBjaGVja291dCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>logg</last-search>
+      <last-search>disti</last-search>
       <last-offset />
-      <last-pattern>logg</last-pattern>
+      <last-pattern>disti</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>consumer</entry>
         <entry>obje</entry>
         <entry>oauth</entry>
         <entry>failsave</entry>
@@ -4012,6 +4018,7 @@
         <entry>metri</entry>
         <entry>KLo</entry>
         <entry>logg</entry>
+        <entry>disti</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
