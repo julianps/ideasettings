@@ -775,11 +775,11 @@
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/api_tests/Dockerfile" timestamp="1540824478659">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/Dockerfile" timestamp="1540825074185">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1540730810231">
         <mark key="[" line="94" column="31" />
@@ -3988,8 +3988,8 @@
       <jump line="47" column="34" filename="$USER_HOME$/projects/purchase-service/integration.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4004,7 +4004,7 @@
         <text>purchase-service-api-test-credentials</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNvbWUtb3RoZXI6ICMgdG9rZW4gbmFtZQogICAgICAjIFtdIGlzIG5lZWRlZCBldmVuIGlmIHRoZXJlIGFyZSBubyBleHBsaWNpdCBwcml2aWxlZ2VzIHJlcXVpcmVkCiAgICAgICMgdGhlIGBzdWJgIGNsYWltIChgdWlkYCBzY29wZSBpbiBUb2tlbiBJbmZvKSB3aWxsIGFsd2F5cyBiZSBwcm92aWRlZAogICAgICBwcml2aWxlZ2VzOiBbXQo=</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4013,28 +4013,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6cGF5bWVudF9jb25zdW1lcl9wcm9maWxlLndyaXRlCg==</text>
+        <text encoding="base64">RnJvbTogIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20K</text>
+        <text encoding="base64">ICAgIHNvbWUtb3RoZXI6ICMgdG9rZW4gbmFtZQogICAgICAjIFtdIGlzIG5lZWRlZCBldmVuIGlmIHRoZXJlIGFyZSBubyBleHBsaWNpdCBwcml2aWxlZ2VzIHJlcXVpcmVkCiAgICAgICMgdGhlIGBzdWJgIGNsYWltIChgdWlkYCBzY29wZSBpbiBUb2tlbiBJbmZvKSB3aWxsIGFsd2F5cyBiZSBwcm92aWRlZAogICAgICBwcml2aWxlZ2VzOiBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6Zm9vYmFyLnJlYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6c3VwZXJ2aXNvci5yZWFkX2FsbAo=</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6cGF5bWVudF9jb25zdW1lcl9wcm9maWxlLndyaXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6YWNtZS5mdWxsCg==</text>
+        <text encoding="base64">ICAgICAgLSBjb20K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6Zm9vYmFyLnJlYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6c3VwZXJ2aXNvci5yZWFkX2FsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
