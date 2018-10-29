@@ -732,6 +732,13 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/Jenkinsfile" timestamp="1540824452342">
+        <mark key="'" line="69" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/TokensConfiguration.java" timestamp="1540823991587">
+        <mark key="[" line="54" column="87" />
+        <mark key="]" line="54" column="115" />
+      </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/NameService.java" timestamp="1508748675349">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="14" column="35" />
@@ -767,6 +774,12 @@
         <mark key="]" line="16" column="77" />
         <mark key="^" line="16" column="77" />
         <mark key="." line="16" column="77" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/Dockerfile" timestamp="1540824478659">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1540730810231">
         <mark key="[" line="94" column="31" />
@@ -1505,11 +1518,11 @@
         <mark key="^" line="22" column="67" />
         <mark key="." line="22" column="67" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/deploy/apply/plattformCredentials.yaml" timestamp="1540822974985">
+      <file name="$USER_HOME$/projects/purchase-service/deploy/apply/plattformCredentials.yaml" timestamp="1540824331377">
         <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
+        <mark key="]" line="3" column="44" />
+        <mark key="." line="42" column="63" />
+        <mark key="^" line="42" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/RetailerInfo.java" timestamp="1525092014497">
         <mark key="[" line="11" column="0" />
@@ -1786,6 +1799,12 @@
         <mark key="]" line="10" column="17" />
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/deploy/apply/deployment.yaml" timestamp="1540824343121">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/resources/metainfo.json" timestamp="1524660371178">
         <mark key="[" line="0" column="0" />
@@ -2939,6 +2958,9 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="85" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/integration.yaml" timestamp="1540824465445">
+        <mark key="'" line="47" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/AvailableCardFundingSourcesInfo.java" timestamp="1511189171091">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="11" column="34" />
@@ -3864,12 +3886,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
-      <jump line="635" column="31" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
-      <jump line="698" column="67" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
-      <jump line="734" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
-      <jump line="763" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
-      <jump line="772" column="28" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="773" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="797" column="12" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
       <jump line="803" column="10" filename="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" />
@@ -3964,70 +3980,75 @@
       <jump line="54" column="32" filename="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/services/util/MeasureCallRateUtil.kt" />
       <jump line="164" column="85" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/DefaultPreferredPaymentProcessor.java" />
       <jump line="297" column="25" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
+      <jump line="32" column="12" filename="$USER_HOME$/projects/purchase-service/Jenkinsfile" />
+      <jump line="68" column="166" filename="$USER_HOME$/projects/purchase-service/Jenkinsfile" />
+      <jump line="69" column="47" filename="$USER_HOME$/projects/purchase-service/Jenkinsfile" />
+      <jump line="27" column="19" filename="$USER_HOME$/projects/purchase-service/integration.yaml" />
+      <jump line="49" column="40" filename="$USER_HOME$/projects/purchase-service/integration.yaml" />
+      <jump line="47" column="34" filename="$USER_HOME$/projects/purchase-service/integration.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>p</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>modelmapper</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
-        <text>store_for_reuse</text>
+        <text>purchase-service-api-test-credentials</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">ICAgIHNvbWUtb3RoZXI6ICMgdG9rZW4gbmFtZQogICAgICAjIFtdIGlzIG5lZWRlZCBldmVuIGlmIHRoZXJlIGFyZSBubyBleHBsaWNpdCBwcml2aWxlZ2VzIHJlcXVpcmVkCiAgICAgICMgdGhlIGBzdWJgIGNsYWltIChgdWlkYCBzY29wZSBpbiBUb2tlbiBJbmZvKSB3aWxsIGFsd2F5cyBiZSBwcm92aWRlZAogICAgICBwcml2aWxlZ2VzOiBbXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8uYXBwLm1vZGVsLgo=</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6cGF5bWVudF9jb25zdW1lcl9wcm9maWxlLndyaXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgICAgLSBjb20K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24gc2hvdWxkQmUgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6Zm9vYmFyLnJlYWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gc2Vzc2lvbkNyZWF0aW9uUmVzcG9uc2UucGF5T3JkZXJTZXNzaW9uISEK</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6c3VwZXJ2aXNvci5yZWFkX2FsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLnBheU9yZGVyU2Vzc2lvbiBzaG91bGROb3RCZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgLSBjb20uemFsYW5kbzo6YWNtZS5mdWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjcmVhdGUgZXhwZWN0YXRpb25zIHdpdGggdGhlIHN1di1zZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5bWVudFN0YXR1cygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb25leShCaWdEZWNpbWFsKDEwLjApLCAiRVVSIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgxMi41KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vbmV5KEJpZ0RlY2ltYWwoMi43KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RPZihMaW5rV2l0aFJlbCgiYXNkZiIsIEh0dHBNZXRob2QuUE9TVCwgInBheSIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>modelmapper</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>modelmapper</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>oauth</entry>
         <entry>failsave</entry>
         <entry>fail</entry>
         <entry>stups</entry>
@@ -4047,6 +4068,7 @@
         <entry>logg</entry>
         <entry>disti</entry>
         <entry>modelmapper</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
