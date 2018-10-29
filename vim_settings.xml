@@ -3525,11 +3525,11 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/projects/pay-order-app/src/test/kotlin/de/zalando/app/services/SessionServiceTest.kt" timestamp="1540804271964">
-        <mark key="[" line="76" column="107" />
-        <mark key="]" line="76" column="107" />
-        <mark key="." line="76" column="107" />
-        <mark key="^" line="76" column="107" />
+      <file name="$USER_HOME$/projects/pay-order-app/src/test/kotlin/de/zalando/app/services/SessionServiceTest.kt" timestamp="1540805373763">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="80" column="107" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/controller/CheckoutControllerIntegrationTest.java" timestamp="1516277725457">
         <mark key="[" line="8" column="3" />
@@ -3952,14 +3952,14 @@
       <jump line="297" column="25" filename="$USER_HOME$/projects/purchase-service/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>modelmapper</text>
@@ -3968,37 +3968,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZW5ldmVyKHN1cGVydmlzb3IuZ2V0UGF5bWVudChhbnkoKSwgYW55KCksIGFueSgpKSkudGhlblJldHVybigKICAgICAgICAgICAgICAgICAgICAgICBQYXltZW50U3RhdHVzKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgxMC4wKSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgxMi41KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgyLjcpLCAiRVVSIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaXN0T2YoTGlua1dpdGhSZWwoImFzZGYiLCBIdHRwTWV0aG9kLlBPU1QsICJwYXkiKSkKICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24gc2hvdWxkQmUgbnVsbAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gc2Vzc2lvbkNyZWF0aW9uUmVzcG9uc2UucGF5T3JkZXJTZXNzaW9uISEK</text>
+        <text encoding="base64">aW1wb3J0IGRlLnphbGFuZG8uYXBwLm1vZGVsLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLnBheU9yZGVyU2Vzc2lvbiBzaG91bGROb3RCZSBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjcmVhdGUgZXhwZWN0YXRpb25zIHdpdGggdGhlIHN1di1zZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb24gc2hvdWxkQmUgbnVsbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5bWVudFN0YXR1cygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb25leShCaWdEZWNpbWFsKDEwLjApLCAiRVVSIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgxMi41KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vbmV5KEJpZ0RlY2ltYWwoMi43KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RPZihMaW5rV2l0aFJlbCgiYXNkZiIsIEh0dHBNZXRob2QuUE9TVCwgInBheSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBzZXNzaW9uID0gc2Vzc2lvbkNyZWF0aW9uUmVzcG9uc2UucGF5T3JkZXJTZXNzaW9uISEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjcmVhdGUgZXhwZWN0YXRpb25zIHdpdGggdGhlIHN1di1zZXJ2aWNlCiAgICAgICAgICAgICJyZXR1cm4gdGhlIHNlc3Npb24gaWYgdGhlIHBheW1lbnQgaXMga25vd24gdG8gdGhlIHN1cGVydmlzb3IiIHsKICAgICAgICAgICAgICAgIHZhbCBzZXNzaW9uQ3JlYXRpb25SZXNwb25zZSA9IHNlc3Npb25TZXJ2aWNlLmNyZWF0ZVBheU9yZGVyU2Vzc2lvbihtb2NrUmVxdWVzdCkKICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLnN0YXRlIHNob3VsZEJlIFNlc3Npb25DcmVhdGlvblN0YXRlLkFDQ0VQVEVECiAgICAgICAgICAgICAgICBzZXNzaW9uQ3JlYXRpb25SZXNwb25zZS5wYXlPcmRlclNlc3Npb24gc2hvdWxkTm90QmUgbnVsbAogICAgICAgICAgICAgICAgdmFsIHNlc3Npb24gPSBzZXNzaW9uQ3JlYXRpb25SZXNwb25zZS5wYXlPcmRlclNlc3Npb24hIQogICAgICAgICAgICAgICAgc2Vzc2lvbiBzaG91bGROb3RCZSBudWxsCgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLnBheU9yZGVyU2Vzc2lvbiBzaG91bGROb3RCZSBudWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBjcmVhdGUgZXhwZWN0YXRpb25zIHdpdGggdGhlIHN1di1zZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGF5bWVudFN0YXR1cygKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBNb25leShCaWdEZWNpbWFsKDEwLjApLCAiRVVSIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9uZXkoQmlnRGVjaW1hbCgxMi41KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vbmV5KEJpZ0RlY2ltYWwoMi43KSwgIkVVUiIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpc3RPZihMaW5rV2l0aFJlbCgiYXNkZiIsIEh0dHBNZXRob2QuUE9TVCwgInBheSIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
