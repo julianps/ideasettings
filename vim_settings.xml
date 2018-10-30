@@ -621,6 +621,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbCheckout.java" timestamp="1540732572907">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/BaseService.java" timestamp="1508748509375">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="26" />
@@ -1201,6 +1206,11 @@
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="34" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/configuration/AppConfiguration.kt" timestamp="1540561031272">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbRetailer.java" timestamp="1538723298019">
         <mark key="[" line="14" column="0" />
@@ -2657,11 +2667,10 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="17" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/SessionAvailabilityContext.java" timestamp="1540910519498">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/SessionAvailabilityContext.java" timestamp="1540912721201">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" timestamp="1540907516460">
         <mark key="[" line="0" column="0" />
@@ -2760,10 +2769,10 @@
         <mark key="." line="19" column="62" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/CvvCheckCalculator.java" timestamp="1540910549816">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+        <mark key="^" line="24" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/CreateRequest.java" timestamp="1508748814321">
         <mark key="[" line="5" column="27" />
@@ -3029,6 +3038,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="83" column="2" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1540544932829">
+        <mark key="[" line="104" column="8" />
+        <mark key="]" line="104" column="8" />
+        <mark key="." line="104" column="8" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
@@ -3402,6 +3416,11 @@
         <mark key="]" line="14" column="64" />
         <mark key="." line="14" column="64" />
         <mark key="^" line="14" column="64" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/PaymentInfo.java" timestamp="1540727450984">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/ResourceTimeStamps.java" timestamp="1532424292122">
         <mark key="[" line="7" column="6" />
@@ -3799,6 +3818,11 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/services/SessionService.kt" timestamp="1540561286989">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/ApplicationRequest.java" timestamp="1511185956869">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="4" />
@@ -4011,8 +4035,8 @@
       <jump line="41" column="27" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjdnZFbmZvcmNlZDsK</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4027,15 +4051,18 @@
         <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBlbmZvcmNlRnVuZGluZ1NvdXJjZUNoZWNrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuIGlzQ3Z2RW5mb3JjZWQgPSBjb250ZXh0LmdldFNlc3Npb24oKS5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjdnZFbmZvcmNlZDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGlzQ3Z2RW5mb3JjZWQgPSBjb250ZXh0LmdldFNlc3Npb24oKS5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>swagger: &quot;2.0&quot;
 
 info:
@@ -4147,26 +4174,23 @@ paths:
 
   /sessions/{sessionId}/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW8gb25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
