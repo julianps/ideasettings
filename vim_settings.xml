@@ -621,11 +621,6 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbCheckout.java" timestamp="1540732572907">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/BaseService.java" timestamp="1508748509375">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="26" />
@@ -1206,11 +1201,6 @@
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="34" column="8" />
-      </file>
-      <file name="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/configuration/AppConfiguration.kt" timestamp="1540561031272">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/models/business/DbRetailer.java" timestamp="1538723298019">
         <mark key="[" line="14" column="0" />
@@ -2457,9 +2447,9 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/CheckoutRequest.java" timestamp="1540730788793">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/CheckoutRequest.java" timestamp="1540907720330">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="45" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="2" column="0" />
       </file>
@@ -2667,6 +2657,18 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="17" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/SessionAvailabilityContext.java" timestamp="1540910519498">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/docs/swagger.yaml" timestamp="1540907516460">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/test/java/de/zalando/paymentprocessing/itest/services/CheckoutServiceTest.java" timestamp="1510582658058">
         <mark key="[" line="48" column="83" />
         <mark key="]" line="48" column="82" />
@@ -2757,11 +2759,11 @@
         <mark key="^" line="19" column="62" />
         <mark key="." line="19" column="62" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/CvvCheckCalculator.java" timestamp="1540542202483">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="10" />
-        <mark key="." line="19" column="10" />
-        <mark key="^" line="19" column="14" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/calculators/CvvCheckCalculator.java" timestamp="1540910549816">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="34" />
+        <mark key="." line="23" column="34" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/own/dynamodb-playground/src/main/java/com/jps/playground/dynamodbplayground/CreateRequest.java" timestamp="1508748814321">
         <mark key="[" line="5" column="27" />
@@ -3027,11 +3029,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="83" column="2" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1540544932829">
-        <mark key="[" line="104" column="8" />
-        <mark key="]" line="104" column="8" />
-        <mark key="." line="104" column="8" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
@@ -3405,11 +3402,6 @@
         <mark key="]" line="14" column="64" />
         <mark key="." line="14" column="64" />
         <mark key="^" line="14" column="64" />
-      </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/PaymentInfo.java" timestamp="1540727450984">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/models/ResourceTimeStamps.java" timestamp="1532424292122">
         <mark key="[" line="7" column="6" />
@@ -3807,11 +3799,6 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/pay-order-app/src/main/kotlin/de/zalando/app/services/SessionService.kt" timestamp="1540561286989">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/Model/ApplicationRequest.java" timestamp="1511185956869">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="4" />
@@ -4025,22 +4012,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Context</text>
+        <text>enforce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcmVwYXJlIHRoZSByZXR1cm52YWx1ZSBvZiB0aGlzIGNhbGwuCiAgICAgICAgU2V0PFN0cmluZz4gb25lVGltZVVzZUZ1bmRpbmdTb3VyY2VzID0gb25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW8uZ2V0T25lVGltZVVzZUZ1bmRpbmdTb3VyY2VzKHB1cmNoYXNlU2Vzc2lvbik7CiAgICAgICAgU2V0PFN0cmluZz4gY3Z2UHJvdmlkZWRGdW5kaW5nU291cmNlcyA9IGZ1bmRpbmdTb3VyY2VDaGVja0Rhby5maW5kQnlTZXNzaW9uSWQocHVyY2hhc2VTZXNzaW9uLmdldElkKCkpOwogICAgICAgIHJldHVybiBwcm9jZXNzb3IuZ2V0QXZhaWxhYmxlQ2FyZEZ1bmRpbmdTb3VyY2UocHVyY2hhc2VTZXNzaW9uLCBjcmVhdGVkRnVuZGluZ1NvdXJjZSwKICAgICAgICAgICAgICAgIHBheW1lbnRBdmFpbGFiaWxpdHkuZ2V0QXZhaWxhYmlsaXR5KHB1cmNoYXNlU2Vzc2lvbiksIG9uZVRpbWVVc2VGdW5kaW5nU291cmNlcywKICAgICAgICAgICAgICAgIGN2dlByb3ZpZGVkRnVuZGluZ1NvdXJjZXMpLmdldE9yRWxzZVRocm93KE5vdEZvdW5kRXhjZXB0aW9uOjpuZXcpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQm9vbGVhbiBlbmZvcmNlRnVuZGluZ1NvdXJjZUNoZWNrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGlzQ3Z2RW5mb3JjZWQgPSBjb250ZXh0LmdldFNlc3Npb24oKS5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4048,20 +4035,129 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>swagger: &quot;2.0&quot;
+
+info:
+  version: 1.0.0
+  title: Purchase API
+  description: |
+    An API that provides access to all features Zalando Payments offers to e-commerce applications
+    which allow consumers to control how they want to purchase goods they order in a shop.
+
+    All consumer interactions supported by the API will be modelled in business processes, each of which
+    consists of a set of resources representing steps in the flow of the process. Hypertext controls in the responses
+    of the resources will provide links to the available subsequent steps of the flow.
+
+    Business processes are executed in the context of a session of the Purchase API. Applications will always
+    first create a session and then pick the appropriate business process within that session.
+
+    The first implementation the Purchase API will only implemenent the business process **Checkout**
+schemes:
+- https
+host: purchase.api.zalando-payments.com
+basePath: /
+
+paths:
+
+  /:
+    get:
+      summary: |
+        Represents the entry points of the purchase API
+      responses:
+        200:
+          description: Hypertext controls to the entry points of the purchase API
+          schema:
+            type: object
+            properties:
+              create_session:
+                $ref: '#/definitions/HttpLink'
+              list_sessions:
+                $ref: '#/definitions/HttpLink'
+
+  /sessions:
+    # represents the collection of all open purchase sessions
+    get:
+      summary: |
+        [INTERNAL ONLY] Lists all open purchase sessions
+      description: |
+        Access to all open purchase sessions is only available for internal tooling
+        not accessible to 3rd parties
+      responses:
+        200:
+          description: A collection of all open purchase sessions
+          schema:
+            $ref: '#/definitions/Sessions'
+
+    post:
+      summary: |
+        Creates a new purchase session.
+        Requires strong authentication, like Platform IAM service-to-service token
+      parameters:
+      - name: session
+        in: body
+        description: |
+          The initial session information. Contains at minimum one application instance and a consumer
+        schema:
+          $ref: '#/definitions/Session'
+
+      responses:
+        201:
+          description: |
+            On successful creation the new session, its URI and a session token is returned.
+            All subsequent request originating from a consumer's device require this session token
+            in an Authorization header
+          schema:
+            $ref: '#/definitions/Session'
+          headers:
+            Location:
+              type: string
+              format: URI
+            X-Session-Token:
+              type: string
+
+  /sessions/{sessionId}:
+    # represents an individual purchase session
+    parameters:
+    - $ref: '#/parameters/SessionIdentifier'
+    get:
+      summary: Returns the information of an individual purchase session
+      responses:
+        200:
+          description: |
+            The requested session exists
+          schema:
+            $ref: '#/definitions/Session'
+    delete:
+      summary: Closes this purchase session. Any subsequent attempt to access this session will fail.
+      responses:
+        204:
+          description: The session is closed
+
+  /sessions/{sessionId}/consumer/funding-sources/{fundingSourceId}:
+    # represents a specific funding source of the session's consumer
+    parameters:
+    - $ref: '#/parameters/SessionIdentifier'
+    - $ref: '#/parameters/FundingSourceIdentifier'
+    delete:
+      summary: Removes the funding source with the given id from the consumer's list of funding sources
+      responses:
+        204:
+          description: The funding source has been removed
+
+  /sessions/{sessionId}/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW8gb25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -4070,24 +4166,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW8gb25lVGltZVVzZUZ1bmRpbmdTb3VyY2VEYW87Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
       </register>
     </registers>
     <search>
-      <last-search>Context</last-search>
+      <last-search>enforce</last-search>
       <last-offset />
-      <last-pattern>Context</last-pattern>
+      <last-pattern>enforce</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>money</entry>
-        <entry>access</entry>
-        <entry>token</entry>
         <entry>flow</entry>
         <entry>apache</entry>
         <entry>metric</entry>
@@ -4105,6 +4198,9 @@
         <entry>cards</entry>
         <entry>conte</entry>
         <entry>Context</entry>
+        <entry>checkouyt</entry>
+        <entry>checkout</entry>
+        <entry>enforce</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
