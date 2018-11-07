@@ -48,11 +48,11 @@
         <mark key="." line="65" column="36" />
         <mark key="^" line="65" column="36" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessorTest.java" timestamp="1541520999268">
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="58" />
-        <mark key="^" line="56" column="58" />
-        <mark key="." line="56" column="58" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessorTest.java" timestamp="1541578704312">
+        <mark key="[" line="210" column="16" />
+        <mark key="]" line="210" column="41" />
+        <mark key="." line="210" column="41" />
+        <mark key="^" line="210" column="41" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/supervisor/Supervisor.java" timestamp="1540300928686">
         <mark key="[" line="3" column="0" />
@@ -2604,12 +2604,12 @@
         <mark key="^" line="13" column="52" />
         <mark key="." line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessor.java" timestamp="1541520519592">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/processors/PaymentMethodAvailabilityProcessor.java" timestamp="1541578837322">
         <mark key="'" line="103" column="60" />
-        <mark key="[" line="103" column="92" />
-        <mark key="]" line="103" column="127" />
-        <mark key="." line="103" column="127" />
-        <mark key="^" line="103" column="127" />
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="44" column="85" />
+        <mark key="." line="44" column="85" />
+        <mark key="^" line="44" column="85" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/services/used_payments.json" timestamp="1531129853873">
         <mark key="[" line="24" column="3" />
@@ -3121,12 +3121,12 @@
         <mark key="^" line="83" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1541521563037">
-        <mark key="'" line="316" column="17" />
-        <mark key="[" line="128" column="48" />
-        <mark key="]" line="128" column="85" />
-        <mark key="." line="128" column="85" />
-        <mark key="^" line="128" column="85" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1541580049515">
+        <mark key="'" line="329" column="17" />
+        <mark key="[" line="293" column="18" />
+        <mark key="]" line="293" column="42" />
+        <mark key="." line="293" column="42" />
+        <mark key="^" line="293" column="42" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
@@ -3728,11 +3728,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/BusinessContextInformation.java" timestamp="1541520805720">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="21" />
-        <mark key="." line="24" column="21" />
-        <mark key="^" line="28" column="64" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/BusinessContextInformation.java" timestamp="1541579648411">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="62" />
+        <mark key="." line="27" column="62" />
+        <mark key="^" line="27" column="62" />
       </file>
       <file name="$USER_HOME$/projects/payment-gateway/.gitignore" timestamp="1533808109272">
         <mark key="[" line="25" column="3" />
@@ -4157,52 +4157,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>L</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
       </register>
       <register name="0" type="4">
-        <text>, BusinessContextInformation.of(false, BusinessContext.CHECKOUT)</text>
+        <text>Money.of(BigDecimal.valueOf(10), &quot;EUR&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LCBCdXNpbmVzc0NvbnRleHRJbmZvcm1hdGlvbi5vZihmYWxzZSwgQnVzaW5lc3NDb250ZXh0LkNIRUNLT1VUKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uZXkgY2FydEFtb3VudCA9IGJ1c2luZXNzQ29udGV4dEluZm9ybWF0aW9uLmdldENhcnRBbW91bnQoKS5nZXRPck51bGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydEFtb3VudCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIWJ1c2luZXNzQ29udGV4dEluZm9ybWF0aW9uLmdldENhcnRBbW91bnQoKS5pc0RlZmluZWQoKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gT3B0aW9uLm5vbmUoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2sgPSBmYWxzZTsKICAgICAgICBpZiAoYnVzaW5lc3NDb250ZXh0LmVxdWFscyhCdXNpbmVzc0NvbnRleHQuQ0hFQ0tPVVQpKSB7CiAgICAgICAgICAgIHZlcmlmeUNoZWNrb3V0KHNlc3Npb24pOwogICAgICAgICAgICBpZiAoc2Vzc2lvbi5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBlbmZvcmNlRnVuZGluZ1NvdXJjZUNoZWNrID0gc2Vzc2lvbi5nZXRDaGVja291dCgpLmdldEVuZm9yY2VGdW5kaW5nU291cmNlQ2hlY2soKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHZlcmlmeVBheU9yZGVyKHNlc3Npb24pOwogICAgICAgICAgICBlbmZvcmNlRnVuZGluZ1NvdXJjZUNoZWNrID0gZmFsc2U7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZ2V0T3JFbHNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5mb3JjZUZ1bmRpbmdTb3VyY2VDaGVjayA9IE9wdGlvbi5zb21lKGZhbHNlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFzc3VtZSB6ZXJvIGFzIGNvbnN1bWVyIGNyZWRpdCBhbW91bnQgaWYgaXQgaXMgbm90IHNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaGVja291dC5nZXRSZW1haW5pbmdDb25zdW1lckNyZWRpdCgpICEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja291dC5zZXRQYXltZW50U2VsZWN0aW9uKGxpbmtDcmVhdG9yLmNyZWF0ZVBheW1lbnRTZWxlY3Rpb25MaW5rKHNlc3Npb25JZCwgQnVzaW5lc3NDb250ZXh0LkNIRUNLT1VUKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiQnVzaW5lc3NDb250ZXh0OiB7fSAtIEN2dkVuZm9yY2VkOiB7fSIsIGJ1c2luZXNzQ29udGV4dCwgZW5mb3JjZUZ1bmRpbmdTb3VyY2VDaGVjayk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
