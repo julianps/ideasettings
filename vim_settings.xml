@@ -1462,10 +1462,10 @@
         <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/models/PurchaseSessionResponse.java" timestamp="1538646524256">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="23" column="37" />
-        <mark key="^" line="23" column="37" />
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/persistence/PayOrderDao.java" timestamp="1538641694820">
         <mark key="[" line="24" column="40" />
