@@ -3132,7 +3132,7 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1542031714670">
+      <file name="/fragment.java" timestamp="1542103992704">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="40" />
@@ -3156,12 +3156,12 @@
         <mark key="^" line="83" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1542028088835">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1542104084935">
         <mark key="'" line="41" column="45" />
-        <mark key="[" line="360" column="32" />
-        <mark key="]" line="360" column="39" />
-        <mark key="." line="360" column="39" />
-        <mark key="^" line="360" column="39" />
+        <mark key="[" line="309" column="61" />
+        <mark key="]" line="309" column="61" />
+        <mark key="." line="309" column="61" />
+        <mark key="^" line="309" column="61" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
@@ -4201,14 +4201,14 @@
       <jump line="95" column="29" filename="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uZVRpbWVVc2VGdW5kaW5nU291cmNlRGFvLCBmdW5kaW5nU291cmNlQ2hlY2tEYW8pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>R</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>max</text>
