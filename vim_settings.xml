@@ -3596,11 +3596,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1542201886445">
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="41" />
-        <mark key="." line="45" column="41" />
-        <mark key="^" line="45" column="41" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1542204395971">
+        <mark key="[" line="52" column="41" />
+        <mark key="]" line="52" column="40" />
+        <mark key="." line="52" column="40" />
+        <mark key="^" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/config/security/jwt/JwtAuthenticationProvider.java" timestamp="1508163311505">
         <mark key="[" line="45" column="19" />
