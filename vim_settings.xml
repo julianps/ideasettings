@@ -1906,9 +1906,9 @@
         <mark key="^" line="26" column="31" />
         <mark key="." line="26" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/availability/PaymentAvailabilityClient.java" timestamp="1539588452889">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="3" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/availability/PaymentAvailabilityClient.java" timestamp="1542206990649">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="118" />
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
@@ -2803,7 +2803,7 @@
         <mark key="^" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/CheckoutCardsContextService.java" timestamp="1542206543367">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/contexts/CheckoutCardsContextService.java" timestamp="1542207344413">
         <mark key="[" line="122" column="69" />
         <mark key="]" line="122" column="69" />
         <mark key="^" line="122" column="37" />
@@ -3109,7 +3109,7 @@
         <mark key="^" line="10" column="2" />
         <mark key="." line="16" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1542117697330">
+      <file name="/fragment.java" timestamp="1542207569087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="40" />
@@ -3986,7 +3986,7 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1542120759603">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/SessionService.java" timestamp="1542207411416">
         <mark key="[" line="89" column="84" />
         <mark key="]" line="89" column="95" />
         <mark key="^" line="89" column="95" />
@@ -4181,7 +4181,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text encoding="base64">L3BheW1lbnQtY2hhbm5lbHMtc3RhdHVzP2NvbnN1bWVyX251bWJlcj0lcyZhY2NvdW50X2lkPSVz</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4192,8 +4192,8 @@
       <register name="/" type="4">
         <text>setAmount</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29tcG9uZW50cy5wYXltZW50X2F2YWlsYWJpbGl0eV9zZXJ2aWNlLmhvc3QgPSBodHRwczovL3BheW1lbnQtYXZhaWxhYmlsaXR5LmtvaGxlLWludGVncmF0aW9uLnphbGFuLmRvCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">L3BheW1lbnQtY2hhbm5lbHMtc3RhdHVzP2NvbnN1bWVyX251bWJlcj0lcyZhY2NvdW50X2lkPSVz</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cAo=</text>
