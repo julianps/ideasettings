@@ -801,7 +801,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/ContextController.java" timestamp="1542120808204">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/ContextController.java" timestamp="1542197891774">
         <mark key="[" line="122" column="89" />
         <mark key="]" line="122" column="90" />
         <mark key="^" line="122" column="90" />
@@ -3596,6 +3596,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application.properties" timestamp="1542200597347">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/config/security/jwt/JwtAuthenticationProvider.java" timestamp="1508163311505">
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="23" />
@@ -4175,13 +4180,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>setAmount</text>
