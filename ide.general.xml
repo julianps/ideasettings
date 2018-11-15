@@ -12,6 +12,5 @@
     <entry key="ide.run.dashboard" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="debugger.showTypes" value="false" />
   </component>
 </application>
