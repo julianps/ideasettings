@@ -960,8 +960,12 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" timestamp="1542707942643">
-        <mark key="'" line="11" column="43" />
+      <file name="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" timestamp="1542712208568">
+        <mark key="'" line="443" column="29" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/consumerstore/dto/ConsumerPatch.java" timestamp="1535533167969">
         <mark key="[" line="18" column="23" />
@@ -4245,7 +4249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="74" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
       <jump line="161" column="120" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
       <jump line="39" column="27" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
       <jump line="40" column="27" filename="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/AppConfiguration.java" />
@@ -4343,12 +4346,13 @@
       <jump line="72" column="0" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
       <jump line="214" column="65" filename="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/services/PaymentServiceTest.java" />
       <jump line="100" column="2" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
-      <jump line="426" column="29" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
+      <jump line="282" column="4" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
       <jump line="11" column="43" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
+      <jump line="426" column="29" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4360,40 +4364,40 @@
         <text>context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">b3BlbiBjbGFzcyBTZXNzaW9uQ29udHJvbGxlcigKICAgICAgICBwcml2YXRlIHZhbCBzZXNzaW9uU2VydmljZTogU2Vzc2lvblNlcnZpY2UsCiAgICAgICAgcHJpdmF0ZSB2YWwgbGlua1Byb3ZpZGVyOiBTZXNzaW9uTGlua1Byb3ZpZGVyCikgewogICAgY29tcGFuaW9uIG9iamVjdCA6IEtMb2dnaW5nKCkK</text>
+        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL3BhcmFtZXRlcnMvU2Vzc2lvbklkZW50aWZpZXInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICRyZWY6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmVwcmVzZW50cyBhIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgU2Vzc2lvbkNvbnRyb2xsZXIgOiBBYnN0cmFjdEF1dGhlbnRpY2F0aW9uUHJvY2Vzc2luZ0ZpbHRlciB7CgogICAgb3ZlcnJpZGUgZnVuIGF0dGVtcHRBdXRoZW50aWNhdGlvbihwMDogSHR0cFNlcnZsZXRSZXF1ZXN0PywgcDE6IEh0dHBTZXJ2bGV0UmVzcG9uc2U/KTogQXV0aGVudGljYXRpb24gewogICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpIC8vVG8gY2hhbmdlIGJvZHkgb2YgY3JlYXRlZCBmdW5jdGlvbnMgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgogICAgfQoKfQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKSAvL1RvIGNoYW5nZSBib2R5IG9mIGNyZWF0ZWQgZnVuY3Rpb25zIHVzZSBGaWxlIHwgU2V0dGluZ3MgfCBGaWxlIFRlbXBsYXRlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
