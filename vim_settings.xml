@@ -856,11 +856,11 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1543488355312">
-        <mark key="[" line="139" column="75" />
-        <mark key="]" line="100" column="57" />
-        <mark key="^" line="100" column="57" />
-        <mark key="." line="100" column="57" />
+      <file name="$USER_HOME$/projects/purchase-service/src/test/java/de/zalando/paymentprocessing/StubFactory.java" timestamp="1543493799756">
+        <mark key="[" line="100" column="73" />
+        <mark key="]" line="142" column="23" />
+        <mark key="^" line="142" column="23" />
+        <mark key="." line="142" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/purchase-service/src/main/java/de/zalando/paymentprocessing/controllers/util/EnumMessageInterpolator.java" timestamp="1517391937891">
         <mark key="[" line="12" column="0" />
@@ -1774,11 +1774,11 @@
         <mark key="^" line="9" column="10" />
         <mark key="." line="9" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1543487000850">
-        <mark key="[" line="293" column="21" />
-        <mark key="]" line="293" column="46" />
+      <file name="$USER_HOME$/projects/purchase-service/pom.xml" timestamp="1543493815291">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="36" column="34" />
         <mark key="^" line="293" column="46" />
-        <mark key="." line="293" column="46" />
+        <mark key="." line="36" column="34" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/api_tests/src/checkout.js" timestamp="1538725923561">
         <mark key="[" line="29" column="39" />
@@ -4374,14 +4374,14 @@
       <jump line="81" column="16" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OQXNzZXJ0LmFzc2VydEVxdWFscyhnZXRPYmplY3RNYXBwZXIoKS53cml0ZVZhbHVlQXNTdHJpbmcoaW5wdXQpLAogICAgICAgICAgICAgICAgZ2V0T2JqZWN0TWFwcGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKG91dHB1dCksIGZhbHNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="i" type="4">
         <text />
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>array</text>
