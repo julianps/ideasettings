@@ -3265,11 +3265,11 @@
         <mark key="^" line="83" column="2" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1543416749949">
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/services/PaymentService.java" timestamp="1543416751424">
         <mark key="[" line="177" column="9" />
-        <mark key="]" line="175" column="11" />
-        <mark key="^" line="175" column="11" />
-        <mark key="." line="175" column="11" />
+        <mark key="]" line="178" column="7" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="7" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/test/resources/testdata/util/ConverterTest/payment-selection/FromSelectionToResponseOutput.json" timestamp="1538727601646">
         <mark key="[" line="10" column="34" />
@@ -3325,11 +3325,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/auth/jwt.test.js" timestamp="1543415175386">
-        <mark key="[" line="120" column="8" />
-        <mark key="]" line="120" column="7" />
-        <mark key="." line="120" column="7" />
-        <mark key="^" line="120" column="7" />
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/auth/jwt.test.js" timestamp="1543479582663">
+        <mark key="[" line="88" column="76" />
+        <mark key="]" line="89" column="7" />
+        <mark key="." line="89" column="7" />
+        <mark key="^" line="89" column="7" />
       </file>
       <file name="$USER_HOME$/projects/purchase-service/src/main/resources/application-api-test.properties" timestamp="1539607458041">
         <mark key="[" line="2" column="0" />
@@ -3367,9 +3367,9 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/payment/get.test.js" timestamp="1543414926731">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="60" column="91" />
+      <file name="$USER_HOME$/projects/purchase-service/api_tests/test/api/payment/get.test.js" timestamp="1543479479024">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="44" />
         <mark key="." line="55" column="5" />
         <mark key="^" line="55" column="5" />
       </file>
@@ -4063,9 +4063,9 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ResourceServerConfiguration.java" timestamp="1543415361444">
-        <mark key="[" line="57" column="55" />
-        <mark key="]" line="57" column="63" />
+      <file name="$USER_HOME$/projects/purchase-service/src/main/java/de/zalando/paymentprocessing/configs/ResourceServerConfiguration.java" timestamp="1543479341751">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="57" column="98" />
         <mark key="^" line="57" column="63" />
         <mark key="." line="57" column="63" />
       </file>
@@ -4365,8 +4365,8 @@
       <jump line="81" column="16" filename="$USER_HOME$/projects/purchase-service/docs/api/purchase.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBqd3RUb2tlbiA9IHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLmhlYWRlcnNbJ3gtc2Vzc2lvbi10b2tlbiddOwo=</text>
       </register>
       <register name="i" type="4">
         <text />
@@ -4378,7 +4378,7 @@
         <text>array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBbnRQYXRoUmVxdWVzdE1hdGNoZXIoIi9zZXNzaW9ucy8qL2NoZWNrb3V0L3BheW1lbnQiLCBIdHRwTWV0aG9kLlBPU1QubmFtZSgpKSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBqd3RUb2tlbiA9IHNlc3Npb25DcmVhdGlvblJlc3BvbnNlLmhlYWRlcnNbJ3gtc2Vzc2lvbi10b2tlbiddOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3QocmVzcG9uc2Uuc3RhdHVzKS50b0JlKDIwMCkK</text>
